@@ -75,7 +75,7 @@ Install Social Lab
 - Populate your database using Social Lab data fixtures:
     php symfony propel:data-load
 - Set up an scheduled task (via cron) to call Social Lab's Task Scheduler:
-  crontab -e
+    crontab -e
     */5 * * * *	/usr/bin/lynx --dump http://yoursociallab.org/default/scheduler
 
 Define new automated profiles
