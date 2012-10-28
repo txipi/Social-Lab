@@ -1,0 +1,5 @@
+# data/fixtures/020_status.yml
+Status:
+  accepted: { name: "accepted" }
+  rejected: { name: "rejected" }
+  pending: { name: "pending" }

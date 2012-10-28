@@ -1,0 +1,948 @@
+/* Based on: 
+ * - Alien Abductions (http://freehtml5templates.com) 
+ * - Default Facebook CSS (http://devtacular.com)
+ * - CSS3 Github & Facebook-style buttons (Nicolas Gallagher)
+ *   - http://nicolasgallagher.com/lab/css3-github-buttons/
+ *   - http://github.com/necolas/css3-facebook-buttons)
+ */
+
+/* reset */
+* {
+margin: 0;
+padding: 0;
+}
+
+.cleaner { 
+clear: both; 
+}
+
+.float_l { 
+float: left;
+}
+
+.float_r { 
+float: right;
+}
+
+.center { 
+text-align: center;
+}
+
+.left { 
+text-align: left;
+}
+
+.right { 
+text-align: right;
+}
+
+/* render html5 elements as block */
+header, footer, section, aside, nav, article {
+display: block;
+}
+
+body {
+line-height: 1;
+background: #eee;
+font-family: "lucida grande", tahoma, verdana, arial, sans-serif;  
+color: #333;
+font-size: 14px;
+line-height: 18px;
+}
+	
+/* layout */
+
+#wrapper {
+width: 940px;
+margin: 0 auto;
+margin-top: 5px;
+margin-bottom: 5px;
+-webkit-box-shadow: 3px 3px 7px #777;
+box-shadow: 3px 3px 7px #777;
+}
+
+nav {
+width: 940px;
+height: 50px;
+margin: 0 auto;
+background: #3b5998;
+}
+
+header {
+width: 940px;
+height: 10px;
+margin: 0 auto;
+background: #3b5998;
+}
+
+#main {
+width: 940px;
+margin: 0 auto;
+padding-top: 30px;
+background: #fff;
+overflow: hidden;
+}
+
+#content {
+float: left;
+width: 630px;
+min-height: 600px;
+margin-left: 40px;
+padding-left: 20px;
+border-left: 1px solid #ddd;
+}
+
+#sidebar {
+float: left;
+padding-left: 20px;
+width: 180px;
+}
+
+footer {
+width: 940px;
+margin: 0 auto;
+clear: both;
+}
+
+/* basics */
+
+h1,h2,h3,h4,h5,h6 {
+clear: both;
+font-weight: normal;
+}
+
+h2, h3 {
+border-bottom: 1px solid #ddd;
+color: black;
+}
+
+a:link, a:visited {
+color:#3b5998;
+text-decoration: none;
+}
+
+a:hover, a:active {
+color: #3b5998;
+text-decoration: underline;
+}
+
+p {
+margin-bottom: 18px;
+}
+
+li {
+padding-left: 5px;
+}
+
+/* nav */
+
+nav .menu {
+width: 940px;
+font-size: 14px;
+font-weight: bold;
+}
+
+nav .menu ul {
+list-style: none;
+margin: 0;
+text-align: right;
+padding-right: 20px;
+}
+
+nav .menu ul li {
+display: inline;
+position: relative;
+}
+
+nav .menu ul li a {
+padding-right: 10px;
+line-height: 48px;
+text-decoration: none;
+color: #eee;
+}
+
+nav .menu ul li a:hover {
+color: #fff;
+}
+
+.divider {
+color: #DCF4F4;
+}
+
+/* header */
+
+header img {
+margin: 0;
+padding: 0 0 0 10px;
+line-height: normal;
+float: left;
+}
+
+/* articles */
+
+#content p, ul, ol, hr {
+margin-bottom: 24px;
+}
+
+#content ul ul, ol ol, ul ol, ol ul {
+margin-bottom: 0;
+}
+
+#content h1, h2, h3, h4, h5, h6 {
+margin: 0 0 20px 0;
+line-height: 1.5em;
+}
+
+ul.about {
+list-style: square;
+margin-bottom: 24px;
+}
+
+.about li {
+padding-left: 10px;
+margin-left: 20px;
+}
+
+img {
+-webkit-box-shadow: 3px 3px 7px #777;
+box-shadow: 3px 3px 7px #777;
+}
+
+img.noshadow {
+-webkit-box-shadow: none;
+box-shadow: none;
+}
+
+.msg-text {
+width: 85%;
+}
+
+.msg-text-buttons {
+width: 65%;
+padding-left: 15px;
+}
+
+.msg-text-big-buttons {
+width: 50%;
+padding-left: 15px;
+}
+
+.msg-pic {
+width: 80%;
+}
+
+.msg-pic-buttons {
+width: 65%;
+padding-left: 15px;
+}
+
+.msg-pic-big-buttons {
+width: 50%;
+padding-left: 15px;
+}
+
+img.big {
+height: 200px;
+width: 200px;
+padding: 5px;
+}
+
+span.small {
+font-size: 10px;
+}
+
+img.small {
+height: 50px;
+width: 50px;
+padding: 3px;
+}
+
+img.pic_big {
+height: 456px;
+width: 608px;
+padding: 5px;
+}
+
+img.pic_small {
+height: 60px;
+width: 80px;
+padding: 5px;
+}
+
+.alignleft, img.alignleft {
+display: inline;
+float: left;
+margin-right: 8px;
+margin-top: 4px;
+}
+
+.alignright, img.alignright {
+display: inline;
+float: right;
+margin-left: 8px;
+margin-top: 4px;
+}
+
+.aligncenter, img.aligncenter {
+clear: both;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+/* sidebar and footer widget blocks */
+
+aside h3 {
+font-size: 18px;
+}
+
+aside ul {
+list-style: none;
+margin-bottom: 5px;
+}
+
+#footer-area {
+background: #3b5998;
+color: #eee;
+font-size: 90%;
+font-weight: bold;
+padding: 18px 0;
+overflow: hidden;
+}
+
+.footer-segment {
+float: right;
+margin-right: 20px;
+margin-left: 20px;
+width: 190px;
+}
+
+footer aside h4 {
+color: #eee;
+font-size: 16px;
+font-weight: bold;
+line-height: 1.5em;
+}
+
+footer a:link, footer a:visited {
+color: #eee;
+}
+
+footer a:hover { 
+color: #fff;
+text-decoration: none;
+}
+
+footer aside ul {
+list-style: inside url(/images/arrow.gif);
+margin-bottom: 5px;
+}
+
+/* forms */ 
+
+input[type=text], input[type=password] { 
+width: 270px; 
+padding: 5px; 
+color: #666; 
+border: 1px solid #CCC;
+margin: 5px 0 5px 0;
+background: #f7f7f7; 
+}
+
+input[type=file] {
+padding: 5px; 
+color: #666; 
+border: 1px solid #CCC;
+margin: 5px 0 5px 0;
+background: #f7f7f7; 
+}
+
+div.select-big select { 
+width: 270px; 
+padding: 5px; 
+color: #666; 
+border: 1px solid #CCC;
+margin: 5px 0 5px 0;
+background: #f7f7f7; 
+}
+
+div.select-medium select { 
+width: 135px; 
+padding: 5px; 
+color: #666; 
+border: 1px solid #CCC;
+margin: 5px 0 5px 0;
+background: #f7f7f7; 
+}
+
+div.select-small select { 
+width: 65px; 
+padding: 5px; 
+color: #666; 
+border: 1px solid #CCC;
+margin: 5px 0 5px 0;
+background: #f7f7f7; 
+}
+
+label { 
+display: block; 
+min-width: 100px; 
+margin-right: 10px; 
+}
+
+textarea { 
+width: 100%; 
+height: 80px; 
+padding: 10px 0 10px 0; 
+margin-bottom: 10px;
+color: #666; 
+border: 1px solid #CCC; 
+background: #e8e8e8; 
+}
+
+.input_status { 
+width: 100%; 
+height: 40px; 
+padding: 10px 0 0 0; 
+color: #666; 
+float: right;
+border: 1px solid #CCC; 
+background: #e8e8e8; 
+}
+
+.submit_btn { 
+display: block; 
+padding: 5px 15px; 
+margin-top: 10px;
+text-align: center; 
+text-decoration: none;  
+background: #d4dae8;  
+color: #666; 
+border: 1px solid #999; 
+font-size: 11px; 
+cursor: pointer;
+}
+
+form ul {
+list-style: none;
+color: red;
+}
+
+/*
+ */
+
+/* Default Facebook CSS http://devtacular.com */  
+.fbbody  
+{  
+    font-family: "lucida grande" ,tahoma,verdana,arial,sans-serif;  
+    font-size: 11px;  
+    color: #333333;  
+}  
+/* Default Anchor Style */  
+.fbbody a  
+{  
+    color: #3b5998;  
+    outline-style: none;  
+    text-decoration: none;  
+    font-size: 11px;  
+    font-weight: bold;  
+}  
+.fbbody a:hover  
+{  
+    text-decoration: underline;  
+}  
+/* Facebook Box Styles */  
+.fbgreybox  
+{  
+    background-color: #f7f7f7;  
+    border: 1px solid #cccccc;  
+    color: #333333;  
+    padding: 10px;  
+    font-size: 13px;  
+    font-weight: bold;  
+}  
+.fbbluebox  
+{  
+    background-color: #eceff6;  
+    border: 1px solid #d4dae8;  
+    color: #333333;  
+    padding: 7px;  
+    font-size: 13px;  
+    font-weight: bold;  
+}
+
+.fbbluebox.read
+{
+    color: #666;  
+}
+  
+.fbinfobox  
+{  
+    background-color: #fff9d7;  
+    border: 1px solid #e2c822;  
+    color: #333333;  
+    padding: 7px;  
+    font-size: 13px;  
+    font-weight: bold;  
+}  
+.fberrorbox  
+{  
+    background-color: #ffebe8;  
+    border: 1px solid #dd3c10;  
+    color: #333333;  
+    padding: 7px;  
+    font-size: 13px;  
+    font-weight: bold;  
+}  
+/* Content Divider on White Background */  
+.fbcontentdivider  
+{  
+    margin-top: 15px;  
+    margin-bottom: 15px;  
+    width: 520px;  
+    height: 1px;  
+    background-color: #d8dfea;  
+}  
+/* Facebook Tab Style */  
+.fbtab  
+{  
+    padding: 8px;  
+    background-color: #d8dfea;  
+    color: #3b5998;  
+    font-weight: bold;  
+    float: left;  
+    margin-right: 4px;  
+    text-decoration: none;  
+}  
+.fbtab:hover  
+{  
+    background-color: #3b5998;  
+    color: #ffffff;  
+    cursor: hand;  
+}  
+
+/*
+ */
+
+/* ------------------------------------------
+ * CSS3 GITHUB BUTTONS (Nicolas Gallagher)
+ * Licensed under Unlicense
+ * http://github.com/necolas/css3-github-buttons
+ * --------------------------------------- */
+
+
+/* =============================================================================
+   Base Button
+   ========================================================================== */
+
+.button {
+    position: relative; 
+    z-index: 1;
+    overflow: visible; 
+    display: inline-block; 
+    padding: 0.6em 1.2em 0.750em; 
+    border: 1px solid #999; 
+    border-bottom-color: #888;
+    margin: 0;
+    text-decoration: none; 
+    text-align: center;
+    font: bold 11px/normal 'lucida grande', tahoma, verdana, arial, sans-serif; 
+    white-space: nowrap; 
+    cursor: pointer; 
+    /* outline: none; */
+    color: #333; 
+    background-color: #eee;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f5f6f6), to(#e4e4e3));
+    background-image: -moz-linear-gradient(#f5f6f6, #e4e4e3);
+    background-image: -o-linear-gradient(#f5f6f6, #e4e4e3);
+    background-image: linear-gradient(#f5f6f6, #e4e4e3);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#f5f6f6', EndColorStr='#e4e4e3'); /* for IE 6 - 9 */
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #fff;
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #fff;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #fff;
+    /* IE hacks */
+    zoom: 1; 
+    *display: inline; 
+}
+
+.button.confirm {
+    border-color: #29447e #29447e #1a356e;
+    color: #fff;
+    background-color: #5B74A8;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#637bad), to(#5872a7));
+    background-image: -moz-linear-gradient(#637bad, #5872a7);
+    background-image: -o-linear-gradient(#637bad, #5872a7);
+    background-image: linear-gradient(#637bad, #5872a7);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#637bad', EndColorStr='#5872a7'); /* for IE 6 - 9 */
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #8a9cc2;
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #8a9cc2;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #8a9cc2;
+}
+
+/* overrides extra padding on button elements in Firefox */
+.button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+
+/* =============================================================================
+   Button icons
+   ========================================================================== */
+
+.button.icon:before {
+    content: "";
+    position: relative;
+    top: 1px;
+    float:left;
+    width: 12px;
+    height: 12px;
+    margin: 0 0.75em 0 -0.25em;
+    background: url(/images/gh-icons.png) 0 99px no-repeat;
+}
+
+.button.arrowup.icon:before { background-position: 0 0; }
+.button.arrowup.icon:hover:before,
+.button.arrowup.icon:focus:before,
+.button.arrowup.icon:active:before { background-position: -12px 0; }
+
+.button.arrowdown.icon:before { background-position: 0 -12px; }
+.button.arrowdown.icon:hover:before,
+.button.arrowdown.icon:focus:before,
+.button.arrowdown.icon:active:before { background-position: -12px -12px; }
+
+.button.arrowleft.icon:before { background-position: 0 -24px; }
+.button.arrowleft.icon:hover:before,
+.button.arrowleft.icon:focus:before,
+.button.arrowleft.icon:active:before { background-position: -12px -24px; }
+
+.button.arrowright.icon:before { float:right; margin: 0 -0.25em 0 0.5em; background-position: 0 -36px; }
+.button.arrowright.icon:hover:before,
+.button.arrowright.icon:focus:before,
+.button.arrowright.icon:active:before { background-position: -12px -36px; }
+
+.button.approve.icon:before { background-position: 0 -48px; }
+.button.approve.icon:hover:before,
+.button.approve.icon:focus:before,
+.button.approve.icon:active:before { background-position: -12px -48px; }
+
+.button.add.icon:before { background-position: 0 -288px; }
+.button.add.icon:hover:before,
+.button.add.icon:focus:before,
+.button.add.icon:active:before { background-position: -12px -288px; }
+
+.button.remove.icon:before { background-position: 0 -60px; }
+.button.remove.icon:hover:before,
+.button.remove.icon:focus:before,
+.button.remove.icon:active:before { background-position: -12px -60px; }
+
+.button.log.icon:before { background-position: 0 -72px; }
+.button.log.icon:hover:before,
+.button.log.icon:focus:before,
+.button.log.icon:active:before { background-position: -12px -72px; }
+
+.button.calendar.icon:before { background-position: 0 -84px; }
+.button.calendar.icon:hover:before,
+.button.calendar.icon:focus:before,
+.button.calendar.icon:active:before { background-position: -12px -84px; }
+
+.button.chat.icon:before { background-position: 0 -96px; }
+.button.chat.icon:hover:before,
+.button.chat.icon:focus:before,
+.button.chat.icon:active:before { background-position: -12px -96px; }
+
+.button.clock.icon:before { background-position: 0 -108px; }
+.button.clock.icon:hover:before,
+.button.clock.icon:focus:before,
+.button.clock.icon:active:before { background-position: -12px -108px; }
+
+.button.settings.icon:before { background-position: 0 -120px; }
+.button.settings.icon:hover:before,
+.button.settings.icon:focus:before,
+.button.settings.icon:active:before { background-position: -12px -120px; }
+
+.button.comment.icon:before { background-position: 0 -132px; }
+.button.comment.icon:hover:before,
+.button.comment.icon:focus:before,
+.button.comment.icon:active:before { background-position: -12px -132px; }
+
+.button.fork.icon:before { background-position: 0 -144px; }
+.button.fork.icon:hover:before,
+.button.fork.icon:focus:before,
+.button.fork.icon:active:before { background-position: -12px -144px; }
+
+.button.like.icon:before { background-position: 0 -156px; }
+.button.like.icon:hover:before,
+.button.like.icon:focus:before,
+.button.like.icon:active:before { background-position: -12px -156px; }
+
+.button.favorite.icon:before { background-position: 0 -348px; }
+.button.favorite.icon:hover:before,
+.button.favorite.icon:focus:before,
+.button.favorite.icon:active:before { background-position: -12px -348px; }
+
+.button.home.icon:before { background-position: 0 -168px; }
+.button.home.icon:hover:before,
+.button.home.icon:focus:before,
+.button.home.icon:active:before { background-position: -12px -168px; }
+
+.button.key.icon:before { background-position: 0 -180px; }
+.button.key.icon:hover:before,
+.button.key.icon:focus:before,
+.button.key.icon:active:before { background-position: -12px -180px; }
+
+.button.lock.icon:before { background-position: 0 -192px; }
+.button.lock.icon:hover:before,
+.button.lock.icon:focus:before,
+.button.lock.icon:active:before { background-position: -12px -192px; }
+
+.button.unlock.icon:before { background-position: 0 -204px; }
+.button.unlock.icon:hover:before,
+.button.unlock.icon:focus:before,
+.button.unlock.icon:active:before { background-position: -12px -204px; }
+
+.button.loop.icon:before { background-position: 0 -216px; }
+.button.loop.icon:hover:before,
+.button.loop.icon:focus:before,
+.button.loop.icon:active:before { background-position: -12px -216px; }
+
+.button.search.icon:before { background-position: 0 -228px; }
+.button.search.icon:hover:before,
+.button.search.icon:focus:before,
+.button.search.icon:active:before { background-position: -12px -228px; }
+
+.button.mail.icon:before { background-position: 0 -240px; }
+.button.mail.icon:hover:before,
+.button.mail.icon:focus:before,
+.button.mail.icon:active:before { background-position: -12px -240px; }
+
+.button.move.icon:before { background-position: 0 -252px; }
+.button.move.icon:hover:before,
+.button.move.icon:focus:before,
+.button.move.icon:active:before { background-position: -12px -252px; }
+
+.button.edit.icon:before { background-position: 0 -264px; }
+.button.edit.icon:hover:before,
+.button.edit.icon:focus:before,
+.button.edit.icon:active:before { background-position: -12px -264px; }
+
+.button.pin.icon:before { background-position: 0 -276px; }
+.button.pin.icon:hover:before,
+.button.pin.icon:focus:before,
+.button.pin.icon:active:before { background-position: -12px -276px; }
+
+.button.reload.icon:before { background-position: 0 -300px; }
+.button.reload.icon:hover:before,
+.button.reload.icon:focus:before,
+.button.reload.icon:active:before { background-position: -12px -300px; }
+
+.button.rss.icon:before { background-position: 0 -312px; }
+.button.rss.icon:hover:before,
+.button.rss.icon:focus:before,
+.button.rss.icon:active:before { background-position: -12px -312px; }
+
+.button.tag.icon:before { background-position: 0 -324px; }
+.button.tag.icon:hover:before,
+.button.tag.icon:focus:before,
+.button.tag.icon:active:before { background-position: -12px -324px; }
+
+.button.trash.icon:before { background-position: 0 -336px; }
+.button.trash.icon:hover:before,
+.button.trash.icon:focus:before,
+.button.trash.icon:active:before { background-position: -12px -336px; }
+
+.button.user.icon:before { background-position: 0 -360px; }
+.button.user.icon:hover:before,
+.button.user.icon:focus:before,
+.button.user.icon:active:before { background-position: -12px -360px; }
+
+.button.confirm.arrowup.icon:before { background-position: -12px 0; }
+
+.button.confirm.arrowdown.icon:before { background-position: -12px -12px; }
+
+.button.confirm.arrowleft.icon:before { background-position: -12px -24px; }
+
+.button.confirm.arrowright.icon:before { float:right; margin: 0 -0.25em 0 0.5em; background-position: -12px -36px; }
+
+.button.confirm.approve.icon:before { background-position: -12px -48px; }
+
+.button.confirm.add.icon:before { background-position: -12px -288px; }
+
+.button.confirm.remove.icon:before { background-position: -12px -60px; }
+
+.button.confirm.log.icon:before { background-position: -12px -72px; }
+
+.button.confirm.calendar.icon:before { background-position: -12px -84px; }
+
+.button.confirm.chat.icon:before { background-position: -12px -96px; }
+
+.button.confirm.clock.icon:before { background-position: -12px -108px; }
+
+.button.confirm.settings.icon:before { background-position: -12px -120px; }
+
+.button.confirm.comment.icon:before { background-position: -12px -132px; }
+
+.button.confirm.fork.icon:before { background-position: -12px -144px; }
+
+.button.confirm.like.icon:before { background-position: -12px -156px; }
+
+.button.confirm.favorite.icon:before { background-position: -12px -348px; }
+
+.button.confirm.home.icon:before { background-position: -12px -168px; }
+
+.button.confirm.key.icon:before { background-position: -12px -180px; }
+
+.button.confirm.lock.icon:before { background-position: -12px -192px; }
+
+.button.confirm.unlock.icon:before { background-position: -12px -204px; }
+
+.button.confirm.loop.icon:before { background-position: -12px -216px; }
+
+.button.confirm.search.icon:before { background-position: -12px -228px; }
+
+.button.confirm.mail.icon:before { background-position: -12px -240px; }
+
+.button.confirm.move.icon:before { background-position: -12px -252px; }
+
+.button.confirm.edit.icon:before { background-position: -12px -264px; }
+
+.button.confirm.pin.icon:before { background-position: -12px -276px; }
+
+.button.confirm.reload.icon:before { background-position: -12px -300px; }
+
+.button.confirm.rss.icon:before { background-position: -12px -312px; }
+
+.button.confirm.tag.icon:before { background-position: -12px -324px; }
+
+.button.confirm.trash.icon:before { background-position: -12px -336px; }
+
+.button.confirm.user.icon:before { background-position: -12px -360px; }
+
+/* =============================================================================
+   Button extensions
+   ========================================================================== */
+
+/* Big button
+   ========================================================================== */
+
+.button.big {
+    font-size: 14px;
+}
+
+.button.aside {
+    min-width: 175px;
+    margin-bottom: 5px;
+    text-align: left;
+    border: 0;
+    background: none;
+}
+
+.button.aside:hover {
+    color: #FFF;
+    background: #5B74A8;
+}
+
+.button.big.icon:before {
+    top: 0;
+}
+
+
+/* =============================================================================
+   Button groups
+   ========================================================================== */
+
+/* Standard group
+   ========================================================================== */
+
+.button-group {
+    display: inline-block;
+    list-style: none;
+    padding-top: 5px;
+    margin: 0;
+    /* IE hacks */
+    zoom: 1;
+    *display: inline;
+}
+
+.button + .button,
+.button + .button-group,
+.button-group + .button,
+.button-group + .button-group {
+    margin-left: 15px;
+}
+
+.button-group li {
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.button-group .button {
+    float: left;
+    margin-left: 3px;
+}
+
+.button-group > .button:not(:first-child):not(:last-child),
+.button-group li:not(:first-child):not(:last-child) .button {
+    border-radius: 0;
+}
+
+.button-group > .button:first-child,
+.button-group li:first-child .button {
+    margin-left: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.button-group > .button:last-child,
+.button-group li:last-child > .button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+/* Minor group
+   ========================================================================== */
+
+.button-group.minor-group .button {
+    border: 1px solid #d4d4d4;
+    text-shadow: none;
+    background-image: none;
+    background-color: #fff;
+}
+
+.button-group.minor-group .button:hover,
+.button-group.minor-group .button:focus {
+    background-color: #599bdc;
+}
+
+.button-group.minor-group .button:active,
+.button-group.minor-group .button.active {
+    background-color: #3072b3;
+}
+
+.button-group.minor-group .button.icon:before {
+    opacity: 0.8;
+}
+
+/* =============================================================================
+   Button container (mixing buttons and groups, e.g., nav bar)
+   ========================================================================== */
+
+.button-container .button,
+.button-container .button-group {
+    vertical-align: top;
+}
+
+a.button, a.button:hover {
+text-decoration: none;
+}
+
+.button a, .button a:hover {
+text-decoration: none;
+}
+
+.button.confirm a {
+color: #fff;
+}
+
+

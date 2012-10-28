@@ -1,0 +1,3 @@
+# data/fixtures/040_users.yml
+sfGuardUserProfile:
+  admin: { first_name: "Social", last_name: "Lab", email: "admin@sociallab.es", gender: female, user_id: admin }

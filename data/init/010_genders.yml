@@ -1,0 +1,5 @@
+# data/fixtures/010_genders.yml
+Gender:
+  male: { name: "male" }
+  female: { name: "female" }
+  other: { name: "other" }

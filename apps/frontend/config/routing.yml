@@ -1,0 +1,34 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+localized_homepage:
+  url:   /:sf_culture/
+  param: { module: profile, action: wall }
+  requirements:
+    sf_culture: (?:es|en)
+
+homepage:
+  url:   /
+  param: { module: profile, action: wall }
+
+signup:
+  url:   /signup
+  param: { module: register, action: index }
+
+signin:
+  url: /signin 
+  param: { module: sfGuardAuth, action: signin }
+
+signout:
+  url: /signout 
+  param: { module: sfGuardAuth, action: signout }
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

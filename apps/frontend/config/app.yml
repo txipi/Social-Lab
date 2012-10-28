@@ -1,0 +1,53 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  sf_guard_plugin:
+    success_signin_url:      @homepage
+    success_signout_url:     default/social
+
+  default_name: "Your first name"
+
+  status_accepted: 1
+  status_rejected: 2
+  status_pending: 3
+  gender_male: 1
+  gender_female: 2
+  gender_other: 3
+  privacy_public: 1
+  privacy_fof: 2
+  privacy_friends: 3
+
+  scheduler_logs: false
+
+  max_status_per_page: 8
+  max_status_per_profile: 3
+  max_messages_per_page: 8
+  max_requests_per_page: 8
+  max_friends_per_page: 8
+  max_pics_per_page: 8
+  max_pages_per_page: 8
+
+  system_id: 1
+  welcome_automsg: 1
+
+  command_systemmsg: 1
+  command_sendmsg: 2
+  command_sendwall: 3
+  command_tagfriend: 4
+  command_accept: 5
+  command_checklocation: 6
+  command_checkacademic: 7
+  command_checkrequest: 8
+  command_checkfof: 9
+  command_checkfriendtagged: 10
+  command_checkpage: 11
+  command_checkpageowner: 12
+  command_checktaggedbyfriend: 13
+  command_checkfotwof: 14
+  command_checkfriendwall: 15
+
+
+
+

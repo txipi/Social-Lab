@@ -1,0 +1,22 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           sfGuardUserProfile
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              sfGuardUserProfile
+    plural:                sfGuardUserProfiles
+    route_prefix:          sf_guard_user_profile
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display: [=id, =user_id, =first_name, last_name, gender]
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

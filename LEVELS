@@ -1,0 +1,29 @@
+Levels
+	0	systemmsg
+
+	1	accept > systemmsg
+
+	2	sendmsg(location) > checklocation > accept > systemmsg
+
+	3	sendmsg > checkrequest > accept > systemmsg
+
+	4	BotA> (privacy: friends) checkfof > accept > systemmsg
+		BotB> accept
+
+	5	checkpage > accept > systemmsg
+
+	6	BotA> (privacy: friends of friends) checkacademic > accept > systemmsg
+		BotB> accept
+
+	7	checkfriendtagged > accept > systemmsg	
+
+	8	checkpageowner > accept > systemmsg		
+
+	9	BotA> checktaggedbyfriend > accept > systemmsg	
+		BotB> accept > tagfriend > sendmsg
+
+	10	BotA> checkfotwof(BotB, BotC) > accept > systemmsg
+		BotB> checkfriendtagged > accept
+		BotC> checkfriendwall(BotD, congrat) > accept
+		BotD> accept
+

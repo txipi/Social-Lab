@@ -1,0 +1,5 @@
+# data/fixtures/030_privacy.yml
+Privacy:
+  public: { name: "public" }
+  fof: { name: "friends of friends" }
+  friends: { name: "friends" }

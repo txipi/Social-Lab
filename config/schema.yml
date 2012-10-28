@@ -1,0 +1,108 @@
+# config/schema.yml
+propel:
+  sf_guard_user_profile:
+    _attributes: { phpName: sfGuardUserProfile } 
+    id: ~
+    user_id: { type: integer, foreignTable: sf_guard_user, foreignReference: id, required: true, onDelete: cascade } 
+    first_name: { type: varchar(50), required: true, default: "Your first name" }
+    last_name: { type: varchar(50), required: true, default: "Your last name" }
+    email: { type: varchar(255), required: true, default: "youremail@provider.com" }
+    gender: { type: integer, foreignTable: gender, foreignReference: id }
+    birthday: { type: date }
+    photo: { type: varchar(255) }
+    location_town: { type: varchar(255) }
+    location_country: { type: varchar(255) }
+    academic_title: { type: varchar(255) }
+    academic_center: { type: varchar(255) }
+    academic_promotion: { type: varchar(255) }
+    personal_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
+    location_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
+    academic_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
+    pictures_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
+    pages_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
+    friends_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
+    created_at: ~
+    updated_at: ~
+  gender:
+    id: ~
+    name: { type: varchar(20), required: true }
+  privacy:
+    id: ~
+    name: { type: varchar(20), required: true }
+  picture:
+    id: ~
+    owner_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    title: { type: varchar(255), required: true }
+    photo: { type: varchar(255), required: true }
+    created_at: ~
+    updated_at: ~
+  tag:
+    id: ~
+    picture_id: { type: integer, foreignTable: picture, foreignReference: id, required: true }
+    user_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    updated_at: ~
+  page:
+    id: ~
+    owner_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    title: { type: varchar(255), required: true }
+    description: { type: longvarchar }
+    photo: { type: varchar(255), required: true }
+    created_at: ~
+    updated_at: ~
+  fan:
+    id: ~
+    page_id: { type: integer, foreignTable: page, foreignReference: id, required: true }
+    user_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    created_at: ~
+    updated_at: ~
+  friendship:
+    id: ~
+    user1_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    user2_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    created_at: ~
+    updated_at: ~
+  status:
+    id: ~
+    name: { type: varchar(20), required: true }
+  request:
+    id: ~
+    from_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    to_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    text: { type: longvarchar }
+    status: { type: integer, foreignTable: status, foreignReference: id, required: true }
+    updated_at: ~
+  message:
+    id: ~
+    from_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    to_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    is_public: { type: boolean, default: false }
+    is_unread: { type: boolean, default: true }
+    text: { type: longvarchar }
+    created_at: ~
+    updated_at: ~
+  step:
+    id: ~
+    bot_id: { type: integer, foreignTable: bot, foreignReference: id, required: true }
+    command_id: { type: integer, foreignTable: command, foreignReference: id, required: true }
+    step_order: { type: integer, required: true }
+    automsg_id: { type: integer, foreignTable: automsg, foreignReference: id }
+  command:
+    id: ~
+    description: { type: varchar(255) }
+  bot:
+    id: ~
+    user_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    description: { type: varchar(255) }
+  scheduled:
+    id: ~
+    from_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    to_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id, required: true }
+    step: { type: integer, required: true, default: 0 }
+    status: { type: integer, foreignTable: status, foreignReference: id, required: true }
+    created_at: ~
+    updated_at: ~
+  automsg:
+    id: ~
+    text: { type: longvarchar }
+    user_id: { type: integer, foreignTable: sf_guard_user_profile, foreignReference: id }
+

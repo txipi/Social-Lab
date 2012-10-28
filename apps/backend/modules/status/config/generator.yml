@@ -1,0 +1,21 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           Status
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              Status
+    plural:                Statuss
+    route_prefix:          status
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:    ~
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

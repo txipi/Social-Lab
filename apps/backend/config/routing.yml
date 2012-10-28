@@ -1,0 +1,187 @@
+command:
+  class: sfPropelRouteCollection
+  options:
+    model:                Command
+    module:               command
+    prefix_path:          /command
+    column:               id
+    with_wildcard_routes: true
+
+step:
+  class: sfPropelRouteCollection
+  options:
+    model:                Step
+    module:               step
+    prefix_path:          /step
+    column:               id
+    with_wildcard_routes: true
+
+automsg:
+  class: sfPropelRouteCollection
+  options:
+    model:                Automsg
+    module:               automsg
+    prefix_path:          /automsg
+    column:               id
+    with_wildcard_routes: true
+
+scheduled:
+  class: sfPropelRouteCollection
+  options:
+    model:                Scheduled
+    module:               scheduled
+    prefix_path:          /scheduled
+    column:               id
+    with_wildcard_routes: true
+
+routine:
+  class: sfPropelRouteCollection
+  options:
+    model:                Routine
+    module:               routine
+    prefix_path:          /routine
+    column:               id
+    with_wildcard_routes: true
+
+task:
+  class: sfPropelRouteCollection
+  options:
+    model:                Task
+    module:               task
+    prefix_path:          /task
+    column:               id
+    with_wildcard_routes: true
+
+bot:
+  class: sfPropelRouteCollection
+  options:
+    model:                Bot
+    module:               bot
+    prefix_path:          /bot
+    column:               id
+    with_wildcard_routes: true
+
+action:
+  class: sfPropelRouteCollection
+  options:
+    model:                Action
+    module:               action
+    prefix_path:          /action
+    column:               id
+    with_wildcard_routes: true
+
+message:
+  class: sfPropelRouteCollection
+  options:
+    model:                Message
+    module:               message
+    prefix_path:          /message
+    column:               id
+    with_wildcard_routes: true
+
+request:
+  class: sfPropelRouteCollection
+  options:
+    model:                Request
+    module:               request
+    prefix_path:          /request
+    column:               id
+    with_wildcard_routes: true
+
+friendship:
+  class: sfPropelRouteCollection
+  options:
+    model:                Friendship
+    module:               friendship
+    prefix_path:          /friendship
+    column:               id
+    with_wildcard_routes: true
+
+fan:
+  class: sfPropelRouteCollection
+  options:
+    model:                Fan
+    module:               fan
+    prefix_path:          /fan
+    column:               id
+    with_wildcard_routes: true
+
+page:
+  class: sfPropelRouteCollection
+  options:
+    model:                Page
+    module:               page
+    prefix_path:          /page
+    column:               id
+    with_wildcard_routes: true
+
+picture:
+  class: sfPropelRouteCollection
+  options:
+    model:                Picture
+    module:               picture
+    prefix_path:          /picture
+    column:               id
+    with_wildcard_routes: true
+
+privacy:
+  class: sfPropelRouteCollection
+  options:
+    model:                Privacy
+    module:               privacy
+    prefix_path:          /privacy
+    column:               id
+    with_wildcard_routes: true
+
+status:
+  class: sfPropelRouteCollection
+  options:
+    model:                Status
+    module:               status
+    prefix_path:          /status
+    column:               id
+    with_wildcard_routes: true
+
+gender:
+  class: sfPropelRouteCollection
+  options:
+    model:                Gender
+    module:               gender
+    prefix_path:          /gender
+    column:               id
+    with_wildcard_routes: true
+
+tag:
+  class: sfPropelRouteCollection
+  options:
+    model:                Tag
+    module:               tag
+    prefix_path:          /tag
+    column:               id
+    with_wildcard_routes: true
+
+sf_guard_user_profile:
+  class: sfPropelRouteCollection
+  options:
+    model:                sfGuardUserProfile
+    module:               profile
+    prefix_path:          /profile
+    column:               id
+    with_wildcard_routes: true
+
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: profile, action: index }
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*
