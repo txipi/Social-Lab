@@ -15,7 +15,7 @@
         </div>
         <div class="float_r">
           <?php 
-            echo __('%user% asked to be a friend (%time% ago)', array('%user%' => '<strong><a href="'.url_for('profile/show?id='.$Request->getsfGuardUserProfileRelatedByFromId()->getId()).'">'.$Request->getsfGuardUserProfileRelatedByFromId()->getFirstName().' '.$Request->getsfGuardUserProfileRelatedByFromId()->getLastName().'</a></strong>', '%time%' => distance_of_time_in_words(Social::getUnixTimestamp(), Social::getUnixTimestamp($Request->getUpdatedAt())))) ?>
+            echo __('%user% asked to be a friend (%time% ago)', array('%user%' => '<strong><a href="'.url_for('profile/show?id='.$Request->getsfGuardUserProfileRelatedByFromId()->getId()).'">'.$Request->getsfGuardUserProfileRelatedByFromId()->getFirstName().' '.$Request->getsfGuardUserProfileRelatedByFromId()->getLastName().'</a></strong>', '%time%' => distance_of_time_in_words(Social::getUnixTimestamp(), Social::getUnixTimestamp($Request->getUpdatedAt())))) 
           ?>
           <?php switch ($Request->getStatus()) {
              case sfConfig::get('app_status_pending'): ?>
@@ -24,9 +24,9 @@
         <div class="cleaner"></div>
         <div class="float_r button-group">
           <?php
-               echo '<a href="'.url_for('request/accept?id='.$Request->getId()).'" class="button confirm icon approve"'.__('Accept').'</a>';
-               echo '<a href="'.url_for('request/reject?id='.$Request->getId()).'" class="button confirm icon remove"'.__('Reject').'</a>';
-               echo '<a href="'.url_for('request/message?id='.$Request->getId()).'" class="button confirm icon comment"'.__('Send message').'</a>';
+               echo '<a href="'.url_for('request/accept?id='.$Request->getId()).'" class="button confirm icon approve">'.__('Accept').'</a>';
+               echo '<a href="'.url_for('request/reject?id='.$Request->getId()).'" class="button confirm icon remove">'.__('Reject').'</a>';
+               echo '<a href="'.url_for('request/message?id='.$Request->getId()).'" class="button confirm icon comment">'.__('Send message').'</a>';
                break;
              case sfConfig::get('app_status_accepted'):
                echo __('and was <strong>accepted</strong>');
