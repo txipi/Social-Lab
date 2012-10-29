@@ -141,9 +141,9 @@ class sfGuardUserProfile extends BasesfGuardUserProfile {
       $smallpath = sfConfig::get('sf_upload_dir').'/profiles/small-'.$this->getPhoto();
       $square = new sfThumbnail(200, 200, false, true, 75, 'sfImageMagickAdapter', array('method' => 'shave_all'));
       $square->loadFile($filepath);
+      $square->save($filepath);
       $small = new sfThumbnail(50, 50, false, true, 75, 'sfImageMagickAdapter', array('method' => 'shave_bottom'));
       $small->loadFile($filepath);
-      $square->save($filepath);
       $small->save($smallpath);
     }
   }

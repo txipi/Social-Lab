@@ -30,9 +30,9 @@ class Page extends BasePage {
     $smallpath = sfConfig::get('sf_upload_dir').'/pages/small-'.$this->getPhoto();
     $big = new sfThumbnail(608, 456, false, true, 75, 'sfImageMagickAdapter', array('method' => 'shave_all'));
     $big->loadFile($filepath);
+    $big->save($filepath);
     $small = new sfThumbnail(80, 60, false, true, 75, 'sfImageMagickAdapter', array('method' => 'shave_bottom'));
     $small->loadFile($filepath);
-    $big->save($filepath);
     $small->save($smallpath);
   }
 
