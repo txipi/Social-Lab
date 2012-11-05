@@ -20,8 +20,7 @@ class profileActions extends sfActions
   public function executeSearchfriends(sfWebRequest $request)
   {
     $criteria = new Criteria();
-    $criteria->add(sfGuardUserProfilePeer::USER_ID, $this->getUser()->getProfile()->getId(), Criteria::NOT_EQUAL);
-    $criteria->add(sfGuardUserProfilePeer::USER_ID, sfConfig::get('app_system_id'), Criteria::NOT_EQUAL);
+    $criteria->add(sfGuardUserProfilePeer::USER_ID, array($this->getUser()->getProfile()->getId(), sfConfig::get('app_system_id')), Criteria::NOT_IN);
     $criteria->addAscendingOrderByColumn(sfGuardUserProfilePeer::LAST_NAME);
     $criteria->addAscendingOrderByColumn(sfGuardUserProfilePeer::FIRST_NAME);
     $this->sfGuardUserProfiles = new sfPropelPager('sfGuardUserProfile', sfConfig::get('app_max_friends_per_page'));
