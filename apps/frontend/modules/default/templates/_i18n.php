@@ -38,3 +38,4 @@
 <?php __('Password confirmation') ?>
 <?php __('Remember') ?>
 <?php __('remove the current file') ?>
+<?php __('Required') ?>
