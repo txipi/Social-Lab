@@ -29,6 +29,7 @@
 <?php __('Academic title') ?>
 <?php __('Academic center') ?>
 <?php __('Academic promotion') ?>
+<?php __('Graduation year') ?>
 <?php __('Title') ?>
 <?php __('Description') ?>
 <?php __('Picture') ?>
