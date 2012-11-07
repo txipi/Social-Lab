@@ -871,7 +871,7 @@
         <target>Promoción</target>
       </trans-unit>
       <trans-unit id="214">
-        <source>Required</source>
+        <source>Required.</source>
         <target>Obligatorio</target>
       </trans-unit>
     </body>
