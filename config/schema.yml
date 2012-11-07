@@ -4,9 +4,9 @@ propel:
     _attributes: { phpName: sfGuardUserProfile } 
     id: ~
     user_id: { type: integer, foreignTable: sf_guard_user, foreignReference: id, required: true, onDelete: cascade } 
-    first_name: { type: varchar(50), required: true, default: "Your first name" }
-    last_name: { type: varchar(50), required: true, default: "Your last name" }
-    email: { type: varchar(255), required: true, default: "youremail@provider.com" }
+    first_name: { type: varchar(50), required: true }
+    last_name: { type: varchar(50), required: true }
+    email: { type: varchar(255) }
     gender: { type: integer, foreignTable: gender, foreignReference: id }
     birthday: { type: date }
     photo: { type: varchar(255) }
