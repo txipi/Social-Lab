@@ -2,15 +2,15 @@
 # http://www.symfony-project.org/reference/1_4/en/10-Routing
 
 # default rules
+homepage:
+  url:   /
+  param: { module: profile, action: wall }
+
 localized_homepage:
   url:   /:sf_culture/
   param: { module: profile, action: wall }
   requirements:
     sf_culture: (?:es|en)
-
-homepage:
-  url:   /
-  param: { module: profile, action: wall }
 
 signup:
   url:   /signup

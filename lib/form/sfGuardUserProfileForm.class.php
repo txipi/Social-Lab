@@ -11,9 +11,9 @@ class sfGuardUserProfileForm extends BasesfGuardUserProfileForm
 {
   public function configure()
   {
-     unset(
-       $this['created_at'], $this['updated_at'], $this['user_id']
-     );
+    unset(
+      $this['created_at'], $this['updated_at'], $this['user_id']
+    );
     $this->widgetSchema['photo'] = new sfWidgetFormInputFile(array('label' => 'Photo'));
     $this->validatorSchema['photo'] = new sfValidatorFile(array(
       'required' => false,
@@ -21,9 +21,13 @@ class sfGuardUserProfileForm extends BasesfGuardUserProfileForm
       'mime_types' => 'web_images',
     ));
     $years = range(date('Y') - 100, date('Y') + 10);
-    $this['birthday']->getWidget()->setOption('years', array_combine($years, $years));
-    //$this['birthday']->getWidget()->setOption('format', '%day%/%month%/%year%');
+    $this->setWidget('birthday', new sfWidgetFormI18nDate(array(
+      'culture'      => sfContext::getInstance()->getUser()->getCulture(),
+      'month_format' => 'name', 
+      'years'        => array_combine($years, $years)
+    )));
     $this->widgetSchema->setLabels(array(
+      'academic_promotion' => 'Graduation year',
       'personal_info_is_public' => 'Personal information',
       'location_info_is_public' => 'Location',
       'academic_info_is_public' => 'Academic information',

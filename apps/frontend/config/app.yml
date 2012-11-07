@@ -7,8 +7,6 @@ all:
     success_signin_url:      @homepage
     success_signout_url:     default/social
 
-  default_name: "Your first name"
-
   status_accepted: 1
   status_rejected: 2
   status_pending: 3
