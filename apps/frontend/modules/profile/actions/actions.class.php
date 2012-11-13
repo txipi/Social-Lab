@@ -32,6 +32,8 @@ class profileActions extends sfActions
     } else {
       $criteria = new Criteria();
       $criteria->add(sfGuardUserProfilePeer::USER_ID, array($this->getUser()->getProfile()->getId(), sfConfig::get('app_system_id')), Criteria::NOT_IN);
+      $criteria->add(sfGuardUserProfilePeer::FIRST_NAME, '', Criteria::NOT_EQUAL);
+      $criteria->add(sfGuardUserProfilePeer::LAST_NAME, '', Criteria::NOT_EQUAL);
       $criteria->addAscendingOrderByColumn(sfGuardUserProfilePeer::LAST_NAME);
       $criteria->addAscendingOrderByColumn(sfGuardUserProfilePeer::FIRST_NAME);
       $this->sfGuardUserProfiles = new sfPropelPager('sfGuardUserProfile', sfConfig::get('app_max_friends_per_page'));

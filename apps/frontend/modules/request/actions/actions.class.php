@@ -108,13 +108,12 @@ class requestActions extends sfActions
     if ($form->isValid())
     {
       $params = $request->getParameter($form->getName());
-      if ($params['from_id'] == $this->getUser()->getProfile()->getId())
+      if ($params['from_id'] !=  $params['to_id'] && $params['from_id'] == $this->getUser()->getProfile()->getId())
       {
         $criteria = new Criteria();
         $criteria->add(RequestPeer::FROM_ID, $params['from_id']);
         $criteria->add(RequestPeer::TO_ID, $params['to_id']);
         $requests = RequestPeer::doSelect($criteria);
-        $request = $requests[0];
         if (empty($requests) || $requests[0]->getStatus() !== sfConfig::get('app_status_pending'))
         {
           $criteria = new Criteria();
