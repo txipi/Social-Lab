@@ -1,0 +1,2009 @@
+sfGuardGroup:
+  sfGuardGroup_1:
+    name: admin
+    description: 'Administratzaileen taldea'
+sfGuardPermission:
+  sfGuardPermission_1:
+    name: admin
+    description: 'Administratzaileen baimenak'
+sfGuardUser:
+  sfGuardUser_1:
+    username: admin
+    password: admin
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '1'
+  sfGuardUser_2:
+    username: alice
+    algorithm: sha1
+    salt: 45d705d42410aec411297fc15faaff61
+    password: 6d4bc8453143b4321907916054cce0a88689f88f
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_3:
+    username: bob
+    algorithm: sha1
+    salt: 4edd71ca0f28356386df23231f196bc6
+    password: 739f0669f2d2c945487ac6313b0f74c7d299423e
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_4:
+    username: carol
+    algorithm: sha1
+    salt: c3177db6ad3e9ebcfb71ddf3256405f6
+    password: 374e99bcdbb6cbbbd5d9914f86ca95f16acc5764
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_5:
+    username: dave
+    algorithm: sha1
+    salt: c851daf54ad3d66ee4061c2d22986faa
+    password: 5b274e3dd40a3e83760d8832b67a7cccffcb2593
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_6:
+    username: elisabeth
+    algorithm: sha1
+    salt: 29df1f0ec27467e6be7a9269ccaee548
+    password: b25cab1ec910a6a24b1303d394c0c60d0d78991e
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_7:
+    username: chuck
+    algorithm: sha1
+    salt: 992b7226ab1a2a71f1519bba05025ae5
+    password: 9daee217e72695d7f3356189fc1cb773830ee1ce
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_8:
+    username: george
+    algorithm: sha1
+    salt: 422bf8b4fdaff2c7f2a310d143110d9d
+    password: 1b03634d89b113626a0d2e96b39f2aa4539bde01
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_9:
+    username: helen
+    algorithm: sha1
+    salt: a795130e850fb6789fc0ebf9172cd1c5
+    password: 8410b588227508af4c00941898757c30e494ebe5
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_10:
+    username: igor
+    algorithm: sha1
+    salt: 6469bd9b5d433c26cb284a20ab36d209
+    password: ee134d847a67ea65db324acbfe24886357791933
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_11:
+    username: jack
+    algorithm: sha1
+    salt: a8f7e2a0192527408fc0258a11ffa7f1
+    password: 2ce19e781e0ea3762925ec4805d0509a7bdb4030
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_12:
+    username: kate
+    algorithm: sha1
+    salt: 8790fcad5ba745334742fedd153a4de6
+    password: 2f4a33e94c92fc7120ef304ec4c9c93702608379
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_13:
+    username: laura
+    algorithm: sha1
+    salt: 2696601f386d617e7ac36375df85557f
+    password: a5b6b06516ded99441781152ac065d1bed5d65ed
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_14:
+    username: linda
+    algorithm: sha1
+    salt: affd586bb0092997ab97cf346bb35391
+    password: 554027b8d82d89acd49713e6c33a20a2fc52cc6c
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_15:
+    username: mike
+    algorithm: sha1
+    salt: f4dc24385c13966e60ebab9804819f7e
+    password: 602f72bbfb67e15ce98dc5d7b57c3810ceaf86b0
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_16:
+    username: nate
+    algorithm: sha1
+    salt: 27d4a548b14ee1cecd8bcf282587168f
+    password: f21122a36819e7d8aa697231c04afed3437908a0
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_17:
+    username: olivia
+    algorithm: sha1
+    salt: c2b17e0510cb10c9f02a802a312614bb
+    password: 8f233a33ba6658ad88d1c0777c9423d7fdb34e19
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_18:
+    username: peter
+    algorithm: sha1
+    salt: a452e7dd5a39aeb79c0d0e4f265ae15d
+    password: 75890459f3d41756fc486331ab47e020fc72ae22
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_19:
+    username: ryan
+    algorithm: sha1
+    salt: a3e835f9fff69b1772a65eb88226c479
+    password: 5143de20737c6d023da35ad9126d35e9b3e2f911
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_20:
+    username: sally
+    algorithm: sha1
+    salt: 852fea77602f70b98aad5671f38642f1
+    password: eb1a621062ade1b6ce34f74144f282329c901126
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_21:
+    username: tom
+    algorithm: sha1
+    salt: 0fea2988c326fc89ab389a279c4620c7
+    password: 7a9e59aa72c87259cc07eb16e11872eecf745097
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_22:
+    username: vince
+    algorithm: sha1
+    salt: ec43eaf68d05cc71e147c18c19a07503
+    password: 5af0b59488a472e562313dc0b85b6b40aa935906
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_23:
+    username: will
+    algorithm: sha1
+    salt: 0decde4e622cd96afc5ba6d496c94a2f
+    password: f5162e8b382009537907c27a02b600a1b4e79aa7
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_24:
+    username: zoey
+    algorithm: sha1
+    salt: e2930fddec4531ffb24b5c686db8495d
+    password: 4850143c4db65031d2cc19a893c7118503dffd27
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_25:
+    username: alan
+    algorithm: sha1
+    salt: 9b4af0eb5d5690ee9a8a7ff8d8a03fa9
+    password: 87a85ad936dc3632103b52bc379dfa2ef9f46cec
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_26:
+    username: brenda
+    algorithm: sha1
+    salt: 0124b7090154f588f3612df463f592eb
+    password: 3686ed97dc5aaa9c6cbec8502f92760cde2e8d74
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_27:
+    username: fiona
+    algorithm: sha1
+    salt: fdce4f694a1f50e2d5a4211e0d702aa6
+    password: 41d37b7bfbaf188f50d7e4bb00196f71d5a0a2e4
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+  sfGuardUser_28:
+    username: fred
+    algorithm: sha1
+    salt: 5f80de4effcf95c9a3664551e9c5a2a0
+    password: b028f3744608523ab3a2240670bf6a8b7f24bf2e
+    created_at: '2012-01-01 01:01:01'
+    last_login: '2012-01-01 01:01:01'
+    is_active: '1'
+    is_super_admin: '0'
+sfGuardUserGroup:
+  sfGuardUserGroup_1_1:
+    user_id: sfGuardUser_1
+    group_id: sfGuardGroup_1
+sfGuardGroupPermission:
+  sfGuardGroupPermission_1_1:
+    group_id: sfGuardGroup_1
+    permission_id: sfGuardPermission_1
+Gender:
+  Gender_1:
+    name: gizona
+  Gender_2:
+    name: emakumea
+  Gender_3:
+    name: bestea
+Privacy:
+  Privacy_1:
+    name: 'publikoa'
+  Privacy_2:
+    name: 'lagunen lagunak'
+  Privacy_3:
+    name: lagunak
+sfGuardUserProfile:
+  sfGuardUserProfile_1:
+    user_id: sfGuardUser_1
+    first_name: Social
+    last_name: Lab
+    email: admin@sociallab.es
+    gender: Gender_2
+    birthday: '1970-01-01'
+    photo: 29d7b19022420a018f7e3b6444621ef0834e9a33.jpg
+    location_town: 'Bilbo'
+    location_country: 'Spain'
+    academic_title: 'Ingeniaritza Informatikoa'
+    academic_center: 'Deustuko Unibertsitatea'
+    academic_promotion: '2012'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_2:
+    user_id: sfGuardUser_2
+    first_name: Alice
+    last_name: Johnson
+    email: alice@cooper.com
+    gender: Gender_2
+    birthday: '1987-06-09'
+    photo: 06b76c1cb6324afb6c420741c48d4bc9f2f69bce.jpg
+    location_town: Minneapolis
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Psikologia'
+    academic_center: 'Harvard University'
+    academic_promotion: '2011'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_3:
+    user_id: sfGuardUser_3
+    first_name: Bob
+    last_name: Smith
+    email: bsmith@server.com
+    gender: Gender_1
+    birthday: '1983-03-07'
+    photo: 84177a5b5c461a6622d83c6ccf7518f98e41d402.jpg
+    location_town: Springfield
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Ingeniaritza Elektrikoa'
+    academic_center: UCLA
+    academic_promotion: '2007'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_4:
+    user_id: sfGuardUser_4
+    first_name: Carol
+    last_name: Wang
+    email: caroline@mail.com
+    gender: Gender_2
+    birthday: '1986-02-03'
+    photo: 7476be7562de5bcd6c57370f7efd9c1f373897e4.jpg
+    location_town: Washington
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Fisikan Doktorea'
+    academic_center: 'University of Kansas'
+    academic_promotion: '2005'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_5:
+    user_id: sfGuardUser_5
+    first_name: David
+    last_name: Danielson
+    email: dd1985@provider.com
+    gender: Gender_1
+    birthday: '1985-04-19'
+    photo: c85eaa62e80db988e3573d60765c5a208b43bfdb.jpg
+    location_town: London
+    location_country: 'Erresuma Batua'
+    academic_title: 'Ekonomia'
+    academic_center: 'London School of Economics'
+    academic_promotion: '2007'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_3
+    location_info_is_public: Privacy_3
+    academic_info_is_public: Privacy_3
+    pictures_info_is_public: Privacy_3
+    pages_info_is_public: Privacy_3
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_6:
+    user_id: sfGuardUser_6
+    first_name: Elisabeth
+    last_name: Benz
+    email: elibenz@mymail.com
+    gender: Gender_2
+    birthday: '1993-04-29'
+    photo: 87714bc7c9b71def764c9a7036f80967f3a8aad8.jpg
+    location_town: Cork
+    location_country: Irlanda
+    academic_title: 'Batxillergoa'
+    academic_center: 'St James Secondary School'
+    academic_promotion: '2008'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_7:
+    user_id: sfGuardUser_7
+    first_name: Chuck
+    last_name: Kane
+    email: chucky@mailmaster.com
+    gender: Gender_1
+    birthday: '1982-06-20'
+    photo: fd7757ba3dbde3469bfa6bde11ab7c902eb0d400.jpg
+    location_town: 'New York'
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Ingeniaritza Informatikoa'
+    academic_center: 'Stanford University'
+    academic_promotion: '2004'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_2
+    location_info_is_public: Privacy_2
+    academic_info_is_public: Privacy_2
+    pictures_info_is_public: Privacy_2
+    pages_info_is_public: Privacy_2
+    friends_info_is_public: Privacy_2
+  sfGuardUserProfile_8:
+    user_id: sfGuardUser_8
+    first_name: George
+    last_name: Godwin
+    email: godwins@mailmaster.com
+    gender: Gender_1
+    birthday: '1983-02-27'
+    photo: 673204cb604ab14578dd034cc28d8804d56b855d.jpg
+    location_town: 'Salt Lake City'
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Finantzak'
+    academic_center: 'Virginia State'
+    academic_promotion: '2005'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_9:
+    user_id: sfGuardUser_9
+    first_name: Helen
+    last_name: Hathaway
+    email: heha@megamail.com
+    gender: Gender_2
+    birthday: '1982-01-29'
+    photo: ca7de5c90dcb9ddc4953a5c4e0fa01e527678e97.jpg
+    location_town: Chicago
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Pediatria'
+    academic_center: 'Kansas State University'
+    academic_promotion: '2003'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_10:
+    user_id: sfGuardUser_10
+    first_name: Igor
+    last_name: Magnuson
+    email: magnus@ciberdome.com
+    gender: Gender_1
+    birthday: '1986-03-03'
+    photo: 53d69e0030fd130afb40510016c546eb6f0518f2.jpg
+    location_town: Stockholm
+    location_country: Sweden
+    academic_title: 'Ekonomia'
+    academic_center: 'London School of Economics'
+    academic_promotion: '2009'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_11:
+    user_id: sfGuardUser_11
+    first_name: Jack
+    last_name: Michaels
+    email: jackmich@send.com
+    gender: Gender_1
+    birthday: '1985-01-07'
+    photo: 9a6d5dd5ab2113e5cdb70ddc33b52fd4c02f2599.jpg
+    location_town: 'Cape Town'
+    location_country: 'Hegoafrika'
+    academic_title: 'Batxillergoa'
+    academic_center: 'Cape Town Senior High'
+    academic_promotion: '2000'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_12:
+    user_id: sfGuardUser_12
+    first_name: Kate
+    last_name: Johnson
+    email: kjohnson@provider.com
+    gender: Gender_2
+    birthday: '1980-11-29'
+    photo: 3d1379193d712d52ca54d3fdbae4b56bec281a60.jpg
+    location_town: Minneapolis
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Ekonomia'
+    academic_center: 'Yale University'
+    academic_promotion: '2001'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_13:
+    user_id: sfGuardUser_13
+    first_name: Laura
+    last_name: Kurtz
+    email: kkurtz@kurtzmail.com
+    gender: Gender_2
+    birthday: '1981-08-02'
+    photo: 76bd1fccdf42111e351743172c00f3260ed7c0b4.jpg
+    location_town: Boston
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Fisikan Doktorea'
+    academic_center: 'Yale University'
+    academic_promotion: '2007'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_14:
+    user_id: sfGuardUser_14
+    first_name: Linda
+    last_name: Rommer
+    email: rommerlin@mail.com
+    gender: Gender_2
+    birthday: '1978-07-04'
+    photo: 2aa0481d7686097adbaed1c0058ea38f8c52efd9.jpg
+    location_town: Toronto
+    location_country: Canada
+    academic_title: 'Psikologia'
+    academic_center: 'Penn State University'
+    academic_promotion: '2001'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_2
+    academic_info_is_public: Privacy_2
+    pictures_info_is_public: Privacy_3
+    pages_info_is_public: Privacy_3
+    friends_info_is_public: Privacy_3
+  sfGuardUserProfile_15:
+    user_id: sfGuardUser_15
+    first_name: Mike
+    last_name: Zimmerman
+    email: mike@zimmermanmike.com
+    gender: Gender_1
+    birthday: '1982-06-03'
+    photo: f8210cf50361dbe028db8f43ad253eabc3b08fa0.jpg
+    location_town: 'San Francisco'
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: M.B.A.
+    academic_center: 'Stanford University'
+    academic_promotion: '2002'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_16:
+    user_id: sfGuardUser_16
+    first_name: Nate
+    last_name: Pierce
+    email: natpierce@mail.com
+    gender: Gender_1
+    birthday: '1975-06-09'
+    photo: bc9321681487b6084974ab6c345f2b00d249ad79.jpg
+    location_town: Detroit
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Ingeniaritza Elektrikoa'
+    academic_center: Caltech
+    academic_promotion: '1997'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_17:
+    user_id: sfGuardUser_17
+    first_name: Olivia
+    last_name: Lynch
+    email: olive@supermail.com
+    gender: Gender_2
+    birthday: '1984-11-23'
+    photo: 57199400c1beef044a5ce7aa751dad736d358aa3.jpg
+    location_town: Dublin
+    location_country: Irlanda
+    academic_title: 'Biologia'
+    academic_center: 'Trinity College Dublin'
+    academic_promotion: '2004'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_18:
+    user_id: sfGuardUser_18
+    first_name: Peter
+    last_name: Gallagher
+    email: petegal@service.com
+    gender: Gender_1
+    birthday: '1982-09-07'
+    photo: 5bd7b4d3b65fc6a20394b1a3dfba2959ac7ac60a.jpg
+    location_town: Manchester
+    location_country: 'Erresuma Batua'
+    academic_title: 'Arte Ederrak'
+    academic_center: 'University of Sussex'
+    academic_promotion: '2004'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_19:
+    user_id: sfGuardUser_19
+    first_name: Ryan
+    last_name: Smith
+    email: ryans@supermail.com
+    gender: Gender_1
+    birthday: '1981-12-04'
+    photo: 01be078a058b58f26355eb1e9b254a4c8286ce37.jpg
+    location_town: Miami
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Ekonomia'
+    academic_center: 'Miami University'
+    academic_promotion: '2003'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_20:
+    user_id: sfGuardUser_20
+    first_name: Sally
+    last_name: Sullivan
+    email: sallysul@mail.com
+    gender: Gender_2
+    birthday: '1957-04-21'
+    photo: 9b9d0f49f0beb3564a26a596e45ecae37489f4b5.jpg
+    location_town: Limerick
+    location_country: Irlanda
+    academic_title: 'Batxillergoa'
+    academic_center: 'St Patrick Secondary College'
+    academic_promotion: '1974'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_21:
+    user_id: sfGuardUser_21
+    first_name: Tom
+    last_name: White
+    email: tomtom@server.com
+    gender: Gender_1
+    birthday: '1983-01-15'
+    photo: 933e82ba3467d8697a0bb5c62542d4424c8c69dc.jpg
+    location_town: 'Los Angeles'
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Zientzia Politikoak'
+    academic_center: 'Harvard University'
+    academic_promotion: '2005'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_22:
+    user_id: sfGuardUser_22
+    first_name: Vince
+    last_name: Jackson
+    email: vjack@send.com
+    gender: Gender_1
+    birthday: '1959-07-04'
+    photo: 2f71809c781fbedfe9d7113c6ca8a611af331506.jpg
+    location_town: Chicago
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Ingeniaritza Informatikoa'
+    academic_center: 'Stanford University'
+    academic_promotion: '1987'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_23:
+    user_id: sfGuardUser_23
+    first_name: Will
+    last_name: Murray
+    email: bmurray@provider.com
+    gender: Gender_1
+    birthday: '1987-01-06'
+    photo: d9d17c6a81bfb3e76a72fcfd5895b6324ee60497.jpg
+    location_town: London
+    location_country: 'Erresuma Batua'
+    academic_title: 'Batxillergoa'
+    academic_center: 'Nothing Hill Secondary School'
+    academic_promotion: '2003'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_24:
+    user_id: sfGuardUser_24
+    first_name: Zoey
+    last_name: Campbell
+    email: zoeycamp@mymail.com
+    gender: Gender_2
+    birthday: '1982-10-04'
+    photo: f0b3e0dbf75e6ec7510f15d301815e7362fb5ee1.jpg
+    location_town: Liverpool
+    location_country: 'Erresuma Batua'
+    academic_title: 'Arte Ederrak'
+    academic_center: 'University of Leeds'
+    academic_promotion: '2004'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_25:
+    user_id: sfGuardUser_25
+    first_name: Alan
+    last_name: Clarke
+    email: aclarke@sent.com
+    gender: Gender_1
+    birthday: '1988-10-24'
+    photo: b7645d6bba76cfb35d777475f5d59127d1ba3954.jpg
+    location_town: London
+    location_country: 'Erresuma Batua'
+    academic_title: 'Finantzak'
+    academic_center: 'University of Leeds'
+    academic_promotion: '2010'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_26:
+    user_id: sfGuardUser_26
+    first_name: Brenda
+    last_name: Spike
+    email: brendaspike@servermail.com
+    gender: Gender_2
+    birthday: '1983-10-09'
+    photo: 70b41af6179393dcce9b35b5cb3580c7e2e9c407.jpg
+    location_town: Boston
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Finantzak'
+    academic_center: 'Yale University'
+    academic_promotion: '2005'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_27:
+    user_id: sfGuardUser_27
+    first_name: Fiona
+    last_name: Franklin
+    email: fifrank@server.com
+    gender: Gender_2
+    birthday: '1991-02-03'
+    photo: e90cefe682c2b64a5713fd5ba64457738508ffba.jpg
+    location_town: 'Los Angeles'
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Batxillergoa'
+    academic_center: 'George Washington Senior High'
+    academic_promotion: '2006'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+  sfGuardUserProfile_28:
+    user_id: sfGuardUser_28
+    first_name: Fred
+    last_name: Stockton
+    email: stockton@mymail.com
+    gender: Gender_1
+    birthday: '1984-08-07'
+    photo: accc7c9a17c2b2fc8e72a28399ce8077aad12c5a.jpg
+    location_town: Atlanta
+    location_country: 'Amerikako Estatu Batuak'
+    academic_title: 'Geologia'
+    academic_center: 'Cornell University'
+    academic_promotion: '2006'
+    updated_at: '2012-01-01 01:01:01'
+    personal_info_is_public: Privacy_1
+    location_info_is_public: Privacy_1
+    academic_info_is_public: Privacy_1
+    pictures_info_is_public: Privacy_1
+    pages_info_is_public: Privacy_1
+    friends_info_is_public: Privacy_1
+Page:
+  Page_1:
+    owner_id: sfGuardUserProfile_5
+    title: 'Vincent van Gogh'
+    description: 'Vincent Willem van Gogh Vincent Willem Van Gogh (Zundert, Ipar Brabant, 1853ko martxoaren 30a - Auvers-sur-Oise, Val-d`Oise, 1890eko uztailaren 29a) herbeheretar margolari postinpresionista ospetsua izan zen. Marrazkirako dohaina txiki-txikitandik erakutsi bazuen ere, Van Gogh ez zen hogeita zazpi urte bete arte hasi marrazten eta pintatzen, eta hamar urte besterik ez zituen egin artegintzan. Bizitza eta artegintza hain daude lotuak Van Goghengan, non bizilekuz aldatu zuen aldi bakoitzari aro berri bat baitagokio bere lanean. Parisko egonaldia bukatu, eta Arles-en bizi izan zenean iritsi zuen betetasuna Van Goghen arteak: bi urtean, 350 bat margolan egin zituen. Hala, pinturaren historiako artistarik handienetako bat izatera iritsi zen. Haren sentimenduen, usteen eta gogoeten berri zehatza ematen dute bere anaia gazte Theori hemezortzi urtez idatzi zizkion gutunek. Gutun horiek, bere barnean zeukan gaixotasunarekin izandako borroka lazgarriaren lekuko izateaz gainera, literatura-maila handiko adierazpen dira.'
+    photo: 7abf03ea277aaf1f5f29e87bcf1667bda9ca35f0.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Page_2:
+    owner_id: sfGuardUserProfile_5
+    title: 'Francisco Goya'
+    description: 'Francisco José de Goya y Lucientes (Fuendetodos, Zaragoza, 1746ko martxoaren 30a - Bordele, Frantzia, 1828ko apirilaren 16a) pintore eta grabatzaile espainiarra izan zen, erromantizismoaren garaikoa eta euskal jatorrikoa. Bere aita margolaria eta erretaulen urreztatzailea zen, eta bere ama, Aragoiko noblezia txikitik zetorren.  14 urtekin, Escuela de Pías de Zaragoza delakoan sartu zen eta ikasle hasi zen lanean José Luzánen lantegian. 1763an, Madrilera bidaiatu zuen, Academia de Bellas Artes de San Fernandotik beka bat eskuratzeko esperantzarekin, baina laguntza hori ez zitzaion iritsi, ezta ere, 1766an, berriro saiatu zenean. Madrilen, Francisco Boyeu ezagutu zuen eta lagunak egin ziren, eta honek eta Velazquezen lanak, Goyaren formazio goiztiarrean influentzia handia eduki zuen.  Fernando VII erregearen erregetza absolutistarengatik 1824an Frantziara joan zen, eta Bordelen jarraitu zuen lanean. Goyak ez zuen oinordeko artistikorik utzi.  Goyak Edouard Manet, Pablo Picasso eta pintura garaikideko zati handi batean izan zuen eragina.'
+    photo: ebb7cfdedbfd4ce8580f7e14782814bebd501831.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Page_3:
+    owner_id: sfGuardUserProfile_5
+    title: 'Paul Cézanne'
+    description: 'Paul Cézanne (pɔl se`zan; Aix-en-Provence, 1839ko urtarrilaren 19a - Aix-en-Provence, 1906ko urriaren 22a) frantziar margolaria izan zen, inpresionismotik kubismorako trantsizioko eragile nagusietako bat.  Garaiko artista guztien artean, Cézanne izan daiteke XX. mendeko artistengan eragin handienetakoa izan zuena (Henri Matissek, adibidez, Cézanne-ren kolorearen erabilera goresten zuen, eta Pablo Picassok haren konposizio lauaren egitura garatu zuen kubismoa sortzeko). Hala ere, itzalean bizi izan Cézanne, eta bakandurik lan egin. Ez zuen kritikariengan konfiantzarik, lagun urri zituen, eta 1895 arte oso gutxitan erakutsi zituen margolanak. Familiatik ere aldenduta bizi izan zen, familiakoek ez baitzuten aintzat hartzen sortutako arte iraultzaile hori.'
+    photo: 3cf30904a07770a7a2f2096294967fc753e64994.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Page_4:
+    owner_id: sfGuardUserProfile_9
+    title: 'Wolfgang Amadeus Mozart'
+    description: 'Wolfgang Amadeus Mozart (Salzburg, 1756ko urtarrilaren 27a-Viena, 1791ko abenduaren 5a) aro klasikoko austriar konpositore handi eta emankorra izan zen. 600 obra baino gehiago konposatu zituen; haietako asko, musikagintzaren gailurtzat aitortuak hainbat arlotan: opera, musika sakratua, ganbera-musika, orkestrarakoa, (sinfoniak eta abar. Konpositore klasikoen artean ezagunenetarikoa da.'
+    photo: 37ec538b5c57608880909afbcdbcf88ac6edf422.jpg
+    updated_at: '2012-01-01 01:01:01'
+Automsg:
+  Automsg_1:
+    text: 'Eskerrik asko Social Lab-en parte hartzeagatik! <br/><br/>Hacker sozial gisa jasoko duzun lehenengo ataza %s-ren adiskidetasuna lortzean datza. <br/><br/>Zorte on! ;)'
+    user_id: sfGuardUserProfile_2
+  Automsg_2:
+    text: 'Zorionak! <br/><br/>Ez da politika on bat ezezagunak lagun gisa onartzea. <br/><br/>Zure bigarren ataza hacker sozial gisa, apur bat zailagoa izango da. %s -ren adiskidea izaten saiatu behar zara. <br/><br/>Argibidea: batzuetan, zure profila doitzeak ezagunagoa egiten lagundu ahal dizu. ;)'
+    user_id: sfGuardUserProfile_3
+  Automsg_3:
+    text: 'Zure aurpegia ezaguna egiten zait... Springfield-koa al zara?'
+  Automsg_4:
+    text: 'Oso ondo! <br/><br/>Edonork esan dezake gezur bat bere profil pertsonalan. <br/><br/>Zure hirugarren ataza hacker sozial gisa, %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: zer eskatzen duzun garrantzitsua bada ere, nola eskatzen duzun ez dago horren atzetik ;)'
+    user_id: sfGuardUserProfile_4
+  Automsg_5:
+    text: 'Zer dela eta ezagutzen zaitut?'
+  Automsg_6:
+    text: chin
+  Automsg_7:
+    text: 'Ederki ondo egin duzu! <br/><br/>Zure laugarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: Friends will be friends... abesti polit bat da, ez duzu uste?'
+    user_id: sfGuardUserProfile_5
+  Automsg_8:
+    text: 'Primeran! <br/><br/>Erraza da ezezagunen artean lagun asko partekatzea zure lagunek adiskidetasun eskaera guztiak onartzen badituzte }:) <br/><br>Zure bostgarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br>Argibidea: no fans, no "fun".'
+    user_id: sfGuardUserProfile_6
+  Automsg_9:
+    text: 'Lan dotorea egin duzuna!<br/><br/>Ezagun baten itxura hartzeko, zure gustuak partekatzea aukera on bat da. <br/><br/>Zure seigarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: kate bat bere maila ahulenena bezain irmoa da.'
+    user_id: sfGuardUserProfile_7
+  Automsg_10:
+    text: 'Ondo moldatzen zara lan hauetan! <br/><br/>Sare sozial baten lagun guztiak ez dira konfiantzazkoak. <br/><br/>Zure zazpigarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: etiketaz janztea ezinbestekoa da ;)'
+    user_id: sfGuardUserProfile_8
+  Automsg_11:
+    text: 'Zure trebetasunak sekulakoak dira! <br/><br/>Amankomuneko adiskideak etiketatzea konfiantza lortzeko beste modu bat da. <br/><br/>Zure zortzigarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: nirea beste guztiak baino hobeagoa da.'
+    user_id: sfGuardUserProfile_9
+  Automsg_12:
+    text: 'Lan itzela! <br/><br/>Nartzizistek izugarri maite dute milaka zale izatea. <br/><br/>Zure bederetzigarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: batzuetan ikaragarria da argazki tentel batzuetan etiketatua izatea, beste batzuetan ordea, ez hainbeste ;)'
+    user_id: sfGuardUserProfile_10
+  Automsg_13:
+    text: 'Nire lagunak argazkietan etiketatzea izugarri atsegin dut!'
+  Automsg_14:
+    text: 'Sineztezina!  <br/><br/>Konfiantzazko itxurak hartzeari dagokionez, ezberdintasun fin baina garrantzitsua dago etiketatzea eta etiketatua izatearen artean. <br/><br/>Zure hamargarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: orain arte ikasi duzun guztia gogoan izan, beharko duzu eta.'
+    user_id: sfGuardUserProfile_11
+  Automsg_15:
+    text: 'Hacking soziala benetan menperatzen duzu!!! <br/><br/>Baina gogoan izan, botere handiak ardura handia eskatzen du ;) <br/><br/>Eskerrik asko joko honetan parte hartzeagatik!<br/><br/>Mesedez, edozein zalantza, iruzkin edo iradokizun izanez gero, ez ezazu zalantzarik izan: jar zaitez gurekin harremanetan.'
+  Automsg_16:
+    text: feli
+Message:
+  Message_1:
+    from_id: sfGuardUserProfile_3
+    to_id: sfGuardUserProfile_3
+    is_public: '1'
+    is_unread: '0'
+    text: 'Viendo la tele...'
+    updated_at: '2012-01-01 01:01:01'
+  Message_2:
+    from_id: sfGuardUserProfile_2
+    to_id: sfGuardUserProfile_2
+    is_public: '1'
+    is_unread: '0'
+    text: 'Leyendo un libro :)'
+    updated_at: '2012-01-01 01:01:01'
+  Message_5:
+    from_id: sfGuardUserProfile_4
+    to_id: sfGuardUserProfile_4
+    is_public: '1'
+    is_unread: '0'
+    text: 'nín hao!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_6:
+    from_id: sfGuardUserProfile_5
+    to_id: sfGuardUserProfile_5
+    is_public: '1'
+    is_unread: '0'
+    text: 'Opcupado, muy ocupado...'
+    updated_at: '2012-01-01 01:01:01'
+  Message_7:
+    from_id: sfGuardUserProfile_6
+    to_id: sfGuardUserProfile_6
+    is_public: '1'
+    is_unread: '0'
+    text: '¡Nos vamos de acampada!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_8:
+    from_id: sfGuardUserProfile_7
+    to_id: sfGuardUserProfile_7
+    is_public: '1'
+    is_unread: '0'
+    text: '¡Primero de mi promoción! ¡¡¡bien!!!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_9:
+    from_id: sfGuardUserProfile_9
+    to_id: sfGuardUserProfile_9
+    is_public: '1'
+    is_unread: '0'
+    text: 'Un nuevo lienzo, mis pinceles y una tare de entera libre...'
+    updated_at: '2012-01-01 01:01:01'
+  Message_10:
+    from_id: sfGuardUserProfile_8
+    to_id: sfGuardUserProfile_8
+    is_public: '1'
+    is_unread: '0'
+    text: 'Pizza night!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_11:
+    from_id: sfGuardUserProfile_10
+    to_id: sfGuardUserProfile_10
+    is_public: '1'
+    is_unread: '0'
+    text: '¡Al monte!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_12:
+    from_id: sfGuardUserProfile_11
+    to_id: sfGuardUserProfile_11
+    is_public: '1'
+    is_unread: '0'
+    text: '¡Por fin es viernes!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_14:
+    from_id: sfGuardUserProfile_21
+    to_id: sfGuardUserProfile_21
+    is_public: '1'
+    is_unread: '0'
+    text: 'Me encanta San Francisco!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_15:
+    from_id: sfGuardUserProfile_12
+    to_id: sfGuardUserProfile_12
+    is_public: '1'
+    is_unread: '0'
+    text: Smile!
+    updated_at: '2012-01-01 01:01:01'
+  Message_16:
+    from_id: sfGuardUserProfile_15
+    to_id: sfGuardUserProfile_15
+    is_public: '1'
+    is_unread: '0'
+    text: '¡Recién casado! :)'
+    updated_at: '2012-01-01 01:01:01'
+  Message_17:
+    from_id: sfGuardUserProfile_14
+    to_id: sfGuardUserProfile_21
+    is_public: '0'
+    is_unread: '1'
+    text: '¡Me encanta etiquetar a mis amigos en mis fotos!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_18:
+    from_id: sfGuardUserProfile_16
+    to_id: sfGuardUserProfile_16
+    is_public: '1'
+    is_unread: '0'
+    text: 'Programando mi propio sistema operativo... ¡interesante! :)'
+    updated_at: '2012-01-01 01:01:01'
+  Message_19:
+    from_id: sfGuardUserProfile_18
+    to_id: sfGuardUserProfile_18
+    is_public: '1'
+    is_unread: '0'
+    text: '¡En el escenario!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_20:
+    from_id: sfGuardUserProfile_17
+    to_id: sfGuardUserProfile_17
+    is_public: '1'
+    is_unread: '0'
+    text: 'Leyendo un libro...'
+    updated_at: '2012-01-01 01:01:01'
+  Message_21:
+    from_id: sfGuardUserProfile_19
+    to_id: sfGuardUserProfile_19
+    is_public: '1'
+    is_unread: '0'
+    text: 'Necesito relajarme...'
+    updated_at: '2012-01-01 01:01:01'
+  Message_22:
+    from_id: sfGuardUserProfile_20
+    to_id: sfGuardUserProfile_20
+    is_public: '1'
+    is_unread: '0'
+    text: 'Actualizando mi blog :)'
+    updated_at: '2012-01-01 01:01:01'
+  Message_23:
+    from_id: sfGuardUserProfile_23
+    to_id: sfGuardUserProfile_23
+    is_public: '1'
+    is_unread: '0'
+    text: '¡Una fiesta increíble esta noche!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_24:
+    from_id: sfGuardUserProfile_22
+    to_id: sfGuardUserProfile_22
+    is_public: '1'
+    is_unread: '0'
+    text: 'Otra promoción sale de la universidad, ¡enhorabuena!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_25:
+    from_id: sfGuardUserProfile_25
+    to_id: sfGuardUserProfile_25
+    is_public: '1'
+    is_unread: '0'
+    text: '¡A patinar!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_26:
+    from_id: sfGuardUserProfile_24
+    to_id: sfGuardUserProfile_24
+    is_public: '1'
+    is_unread: '0'
+    text: 'Escuchando música...'
+    updated_at: '2012-01-01 01:01:01'
+  Message_27:
+    from_id: sfGuardUserProfile_27
+    to_id: sfGuardUserProfile_27
+    is_public: '1'
+    is_unread: '0'
+    text: '¡Volando hacia Paris!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_28:
+    from_id: sfGuardUserProfile_28
+    to_id: sfGuardUserProfile_28
+    is_public: '1'
+    is_unread: '0'
+    text: '¡A escalar!'
+    updated_at: '2012-01-01 01:01:01'
+  Message_30:
+    from_id: sfGuardUserProfile_26
+    to_id: sfGuardUserProfile_26
+    is_public: '1'
+    is_unread: '0'
+    text: 'Salgamos a bailar :)'
+    updated_at: '2012-01-01 01:01:01'
+Picture:
+  Picture_1:
+    owner_id: sfGuardUserProfile_14
+    title: '¡Sé feliz!'
+    photo: 77f74b1a0428c33f43fe13f272b85d4266676141.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_2:
+    owner_id: sfGuardUserProfile_2
+    title: ¡Salta!
+    photo: a2645c8f60f1ac56a69b7713058aaa70511eb80b.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_3:
+    owner_id: sfGuardUserProfile_3
+    title: 'En el parque'
+    photo: 63567f30cc053066b1f63cb1ff9982c00139b3f2.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_4:
+    owner_id: sfGuardUserProfile_4
+    title: '¡Hola!'
+    photo: f93e74fca94ff9b5ede1807f3698ccbb4ad4be32.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_5:
+    owner_id: sfGuardUserProfile_4
+    title: 'Nin hao!'
+    photo: 3bae4931bd22217703fe5cc2b8c4eebc612be40e.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_6:
+    owner_id: sfGuardUserProfile_6
+    title: Jungla
+    photo: 309d4198b2e26ba92a7e997844d876b1c3a14d49.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_7:
+    owner_id: sfGuardUserProfile_6
+    title: 'El valle'
+    photo: 3891ff1c2b3b8cc65dd20381b6af7624c686d3be.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_8:
+    owner_id: sfGuardUserProfile_6
+    title: Lago
+    photo: cd7a82f65568c6c9c4249fafc1c257af63b8facd.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_9:
+    owner_id: sfGuardUserProfile_7
+    title: 'Talking to me?'
+    photo: 1eabaaea269b339f63276654d4e1e2095767c134.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_10:
+    owner_id: sfGuardUserProfile_7
+    title: '¡Hurra!'
+    photo: 3316f31b486ed2096a968a62f969fe472e2f9d7f.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_11:
+    owner_id: sfGuardUserProfile_7
+    title: 'Muy feliz :)'
+    photo: c933b5fe269311ff85e0f102bd3d0b13e108c5df.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_12:
+    owner_id: sfGuardUserProfile_9
+    title: 'Elisabeth y yo'
+    photo: 74ef8c28e69b650791d83006043ac97545877198.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_13:
+    owner_id: sfGuardUserProfile_10
+    title: Cima
+    photo: c5231f1937203b94f3f03efde81046efd56853ca.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_14:
+    owner_id: sfGuardUserProfile_11
+    title: 'Día agradable'
+    photo: 4c37055d6b38f1c10c1bfb4e3bce79bb234c0f33.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_15:
+    owner_id: sfGuardUserProfile_21
+    title: 'Linda y yo'
+    photo: 7fe39a7a3c12635b1d76be3902b3b45acea0a320.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_16:
+    owner_id: sfGuardUserProfile_13
+    title: Relax
+    photo: 1dba0a9e0ae087630a17fcd0cf70df8d4feb7005.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_17:
+    owner_id: sfGuardUserProfile_21
+    title: 'Un descanso'
+    photo: fbb0bbba386dfbbfb6aaabacd76cdd8e87a4c274.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_18:
+    owner_id: sfGuardUserProfile_12
+    title: 'La pandilla'
+    photo: 16e492e3ddb123ea44a4b13771236f4abed5da8b.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_19:
+    owner_id: sfGuardUserProfile_15
+    title: Felicidad
+    photo: 09b9b48952b396920b418fab4e1ef2f71d93d9f1.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_20:
+    owner_id: sfGuardUserProfile_15
+    title: 'El mejor día de mi vida'
+    photo: d6e14990e5f86389b640f6738b838f4744c2112d.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_21:
+    owner_id: sfGuardUserProfile_14
+    title: 'Calma'
+    photo: 49732294e7dd633232fc1b82352b76241cc9b73e.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_22:
+    owner_id: sfGuardUserProfile_16
+    title: 'Vieja granja'
+    photo: 409af11bb719bc4f78613a1e424e99b9b27e37fe.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_23:
+    owner_id: sfGuardUserProfile_18
+    title: 'Hogar dulce hogar'
+    photo: c7c29d95a0abe403bccba4bc133b645469a450ca.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_24:
+    owner_id: sfGuardUserProfile_19
+    title: Pensando
+    photo: 2732311724f3593371f50e83d7471bd1c7594a4f.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_25:
+    owner_id: sfGuardUserProfile_20
+    title: Senderismo
+    photo: 00d11a6ba4a3b2fd2717a41506ee80982b9e9634.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_26:
+    owner_id: sfGuardUserProfile_22
+    title: 'Graduación'
+    photo: 1b1bf3300525a5b32c5e9411fad81d2a9f224a8e.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_27:
+    owner_id: sfGuardUserProfile_24
+    title: 'Diversión'
+    photo: f2df12f1e59d27a1694cec0a8adbac0fc4e78395.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_28:
+    owner_id: sfGuardUserProfile_27
+    title: 'Lugar maravilloso'
+    photo: 96d560f134d9ff84ab352f7f85d825dba0f948de.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_29:
+    owner_id: sfGuardUserProfile_28
+    title: '¡Sonríe!'
+    photo: d63d7d668983fe280098134c90467e54129dee72.jpg
+    updated_at: '2012-01-01 01:01:01'
+  Picture_30:
+    owner_id: sfGuardUserProfile_28
+    title: 'Falta poco'
+    photo: dc94231888215a8c6182061c587bc81e7945325c.jpg
+    updated_at: '2012-01-01 01:01:01'
+Bot:
+  Bot_1:
+    user_id: sfGuardUserProfile_2
+    description: 'Level 1: Accept always'
+  Bot_2:
+    user_id: sfGuardUserProfile_3
+    description: 'Level 2: Ask location'
+  Bot_3:
+    user_id: sfGuardUserProfile_4
+    description: 'Level 3: Ask request'
+  Bot_4:
+    user_id: sfGuardUserProfile_5
+    description: 'Level 4: Friend of a friend'
+  Bot_5:
+    user_id: sfGuardUserProfile_6
+    description: 'Level 5: Page match'
+  Bot_6:
+    user_id: sfGuardUserProfile_7
+    description: 'Level 6: Academic match with limited profile view'
+  Bot_7:
+    user_id: sfGuardUserProfile_8
+    description: 'Level 7: Friend tag match'
+  Bot_8:
+    user_id: sfGuardUserProfile_9
+    description: 'Level 8: Page owner match'
+  Bot_9:
+    user_id: sfGuardUserProfile_10
+    description: 'Level 9: Tag match'
+  Bot_10:
+    user_id: sfGuardUserProfile_11
+    description: 'Level 10: Friend of two friends'
+  Bot_11:
+    user_id: sfGuardUserProfile_12
+    description: 'Level 4: Always accept bot needed to have a friend of a friend'
+  Bot_12:
+    user_id: sfGuardUserProfile_13
+    description: 'Level 6: Always accept bot needed to gain access to profile limited to friends of friends'
+  Bot_13:
+    user_id: sfGuardUserProfile_14
+    description: 'Level 9: Always accept and tag bot needed to persuade level9 bot'
+  Bot_14:
+    user_id: sfGuardUserProfile_15
+    description: 'Level 10: Always accept bot to check wall'
+  Bot_15:
+    user_id: sfGuardUserProfile_16
+    description: 'Level 10: Check wall, friend of level 10'
+  Bot_16:
+    user_id: sfGuardUserProfile_19
+    description: 'Level 10: Friend tag match, friend of level 10'
+Command:
+  Command_1:
+    description: 'System message'
+  Command_2:
+    description: 'Send message'
+  Command_3:
+    description: 'Send wall message'
+  Command_4:
+    description: 'Tag friends in pictures'
+  Command_5:
+    description: 'Accept friendship'
+  Command_6:
+    description: 'Check location match'
+  Command_7:
+    description: 'Check academic match'
+  Command_8:
+    description: 'Check request'
+  Command_9:
+    description: 'Check friend of friend'
+  Command_10:
+    description: 'Check friend tagged by player'
+  Command_11:
+    description: 'Check page match'
+  Command_12:
+    description: 'Check page owner match'
+  Command_13:
+    description: 'Check tagged by friend'
+  Command_14:
+    description: 'Check friend of two friends'
+  Command_15:
+    description: 'Check friend wall'
+Step:
+  Step_1:
+    bot_id: Bot_1
+    command_id: Command_5
+    step_order: '0'
+  Step_2:
+    bot_id: Bot_1
+    command_id: Command_1
+    step_order: '1'
+    automsg_id: Automsg_2
+  Step_3:
+    bot_id: Bot_2
+    command_id: Command_2
+    step_order: '0'
+    automsg_id: Automsg_3
+  Step_4:
+    bot_id: Bot_2
+    command_id: Command_6
+    step_order: '1'
+  Step_5:
+    bot_id: Bot_2
+    command_id: Command_5
+    step_order: '2'
+  Step_6:
+    bot_id: Bot_2
+    command_id: Command_1
+    step_order: '3'
+    automsg_id: Automsg_4
+  Step_7:
+    bot_id: Bot_3
+    command_id: Command_2
+    step_order: '0'
+    automsg_id: Automsg_5
+  Step_8:
+    bot_id: Bot_3
+    command_id: Command_8
+    step_order: '1'
+    automsg_id: Automsg_6
+  Step_9:
+    bot_id: Bot_3
+    command_id: Command_5
+    step_order: '2'
+  Step_10:
+    bot_id: Bot_3
+    command_id: Command_1
+    step_order: '3'
+    automsg_id: Automsg_7
+  Step_11:
+    bot_id: Bot_4
+    command_id: Command_9
+    step_order: '0'
+  Step_12:
+    bot_id: Bot_4
+    command_id: Command_5
+    step_order: '1'
+  Step_13:
+    bot_id: Bot_4
+    command_id: Command_1
+    step_order: '2'
+    automsg_id: Automsg_8
+  Step_14:
+    bot_id: Bot_11
+    command_id: Command_5
+    step_order: '0'
+  Step_15:
+    bot_id: Bot_5
+    command_id: Command_11
+    step_order: '0'
+  Step_16:
+    bot_id: Bot_5
+    command_id: Command_5
+    step_order: '1'
+  Step_17:
+    bot_id: Bot_5
+    command_id: Command_1
+    step_order: '2'
+    automsg_id: Automsg_9
+  Step_18:
+    bot_id: Bot_6
+    command_id: Command_7
+    step_order: '0'
+  Step_19:
+    bot_id: Bot_6
+    command_id: Command_5
+    step_order: '1'
+  Step_20:
+    bot_id: Bot_6
+    command_id: Command_1
+    step_order: '2'
+    automsg_id: Automsg_10
+  Step_21:
+    bot_id: Bot_7
+    command_id: Command_10
+    step_order: '0'
+  Step_22:
+    bot_id: Bot_7
+    command_id: Command_5
+    step_order: '1'
+  Step_23:
+    bot_id: Bot_7
+    command_id: Command_1
+    step_order: '2'
+    automsg_id: Automsg_11
+  Step_24:
+    bot_id: Bot_8
+    command_id: Command_12
+    step_order: '0'
+  Step_25:
+    bot_id: Bot_8
+    command_id: Command_5
+    step_order: '1'
+  Step_26:
+    bot_id: Bot_8
+    command_id: Command_1
+    step_order: '2'
+    automsg_id: Automsg_12
+  Step_27:
+    bot_id: Bot_9
+    command_id: Command_13
+    step_order: '0'
+  Step_28:
+    bot_id: Bot_9
+    command_id: Command_5
+    step_order: '1'
+  Step_29:
+    bot_id: Bot_9
+    command_id: Command_1
+    step_order: '2'
+    automsg_id: Automsg_14
+  Step_30:
+    bot_id: Bot_10
+    command_id: Command_14
+    step_order: '0'
+  Step_31:
+    bot_id: Bot_10
+    command_id: Command_5
+    step_order: '1'
+  Step_32:
+    bot_id: Bot_10
+    command_id: Command_1
+    step_order: '2'
+    automsg_id: Automsg_15
+  Step_33:
+    bot_id: Bot_12
+    command_id: Command_5
+    step_order: '0'
+  Step_34:
+    bot_id: Bot_13
+    command_id: Command_5
+    step_order: '0'
+  Step_35:
+    bot_id: Bot_13
+    command_id: Command_4
+    step_order: '1'
+  Step_36:
+    bot_id: Bot_13
+    command_id: Command_2
+    step_order: '2'
+    automsg_id: Automsg_13
+  Step_37:
+    bot_id: Bot_14
+    command_id: Command_5
+    step_order: '0'
+  Step_38:
+    bot_id: Bot_15
+    command_id: Command_15
+    step_order: '0'
+    automsg_id: Automsg_16
+  Step_39:
+    bot_id: Bot_15
+    command_id: Command_5
+    step_order: '1'
+  Step_40:
+    bot_id: Bot_16
+    command_id: Command_10
+    step_order: '0'
+  Step_41:
+    bot_id: Bot_16
+    command_id: Command_5
+    step_order: '1'
+Status:
+  Status_1:
+    name: aceptada
+  Status_2:
+    name: rechazada
+  Status_3:
+    name: pendiente
+Fan:
+  Fan_1:
+    page_id: Page_1
+    user_id: sfGuardUserProfile_5
+    updated_at: '2012-01-01 01:01:01'
+  Fan_2:
+    page_id: Page_2
+    user_id: sfGuardUserProfile_5
+    updated_at: '2012-01-01 01:01:01'
+  Fan_3:
+    page_id: Page_3
+    user_id: sfGuardUserProfile_5
+    updated_at: '2012-01-01 01:01:01'
+  Fan_4:
+    page_id: Page_1
+    user_id: sfGuardUserProfile_6
+    updated_at: '2012-01-01 01:01:01'
+  Fan_5:
+    page_id: Page_3
+    user_id: sfGuardUserProfile_6
+    updated_at: '2012-01-01 01:01:01'
+  Fan_6:
+    page_id: Page_1
+    user_id: sfGuardUserProfile_9
+    updated_at: '2012-01-01 01:01:01'
+  Fan_7:
+    page_id: Page_2
+    user_id: sfGuardUserProfile_9
+    updated_at: '2012-01-01 01:01:01'
+  Fan_8:
+    page_id: Page_3
+    user_id: sfGuardUserProfile_9
+    updated_at: '2012-01-01 01:01:01'
+  Fan_9:
+    page_id: Page_4
+    user_id: sfGuardUserProfile_9
+    updated_at: '2012-01-01 01:01:01'
+  Fan_10:
+    page_id: Page_3
+    user_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Fan_11:
+    page_id: Page_1
+    user_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Fan_12:
+    page_id: Page_4
+    user_id: sfGuardUserProfile_24
+    updated_at: '2012-01-01 01:01:01'
+  Fan_13:
+    page_id: Page_2
+    user_id: sfGuardUserProfile_24
+    updated_at: '2012-01-01 01:01:01'
+  Fan_14:
+    page_id: Page_2
+    user_id: sfGuardUserProfile_27
+    updated_at: '2012-01-01 01:01:01'
+  Fan_15:
+    page_id: Page_4
+    user_id: sfGuardUserProfile_27
+    updated_at: '2012-01-01 01:01:01'
+  Fan_16:
+    page_id: Page_3
+    user_id: sfGuardUserProfile_27
+    updated_at: '2012-01-01 01:01:01'
+  Fan_17:
+    page_id: Page_3
+    user_id: sfGuardUserProfile_28
+    updated_at: '2012-01-01 01:01:01'
+  Fan_18:
+    page_id: Page_2
+    user_id: sfGuardUserProfile_26
+    updated_at: '2012-01-01 01:01:01'
+  Fan_19:
+    page_id: Page_1
+    user_id: sfGuardUserProfile_26
+    updated_at: '2012-01-01 01:01:01'
+Tag:
+  Tag_1:
+    picture_id: Picture_1
+    user_id: sfGuardUserProfile_10
+    updated_at: '2012-01-01 01:01:01'
+  Tag_2:
+    picture_id: Picture_12
+    user_id: sfGuardUserProfile_6
+    updated_at: '2012-01-01 01:01:01'
+  Tag_3:
+    picture_id: Picture_14
+    user_id: sfGuardUserProfile_21
+    updated_at: '2012-01-01 01:01:01'
+  Tag_4:
+    picture_id: Picture_15
+    user_id: sfGuardUserProfile_14
+    updated_at: '2012-01-01 01:01:01'
+  Tag_5:
+    picture_id: Picture_1
+    user_id: sfGuardUserProfile_21
+    updated_at: '2012-01-01 01:01:01'
+  Tag_6:
+    picture_id: Picture_21
+    user_id: sfGuardUserProfile_10
+    updated_at: '2012-01-01 01:01:01'
+  Tag_7:
+    picture_id: Picture_21
+    user_id: sfGuardUserProfile_21
+    updated_at: '2012-01-01 01:01:01'
+Request:
+  Request_1:
+    from_id: sfGuardUserProfile_5
+    to_id: sfGuardUserProfile_12
+    text: '¡Hola Kate!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_2:
+    from_id: sfGuardUserProfile_7
+    to_id: sfGuardUserProfile_13
+    text: '¡Hola Laura!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_3:
+    from_id: sfGuardUserProfile_8
+    to_id: sfGuardUserProfile_13
+    text: '¡Hola Laura!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_4:
+    from_id: sfGuardUserProfile_14
+    to_id: sfGuardUserProfile_10
+    text: '¡Hola Igor!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_5:
+    from_id: sfGuardUserProfile_16
+    to_id: sfGuardUserProfile_11
+    text: '¡Hola Jack!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_6:
+    from_id: sfGuardUserProfile_15
+    to_id: sfGuardUserProfile_16
+    text: '¡Hola there!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_7:
+    from_id: sfGuardUserProfile_2
+    to_id: sfGuardUserProfile_19
+    text: '¡Hola Ryan!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_8:
+    from_id: sfGuardUserProfile_19
+    to_id: sfGuardUserProfile_11
+    text: '¡Hola Jack!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_9:
+    from_id: sfGuardUserProfile_3
+    to_id: sfGuardUserProfile_18
+    text: '¡Hola Peter!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_10:
+    from_id: sfGuardUserProfile_3
+    to_id: sfGuardUserProfile_25
+    text: '¡Hola Alan!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_11:
+    from_id: sfGuardUserProfile_3
+    to_id: sfGuardUserProfile_21
+    text: '¡Hola Tom!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_12:
+    from_id: sfGuardUserProfile_4
+    to_id: sfGuardUserProfile_21
+    text: '¡Hola Tom!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_13:
+    from_id: sfGuardUserProfile_4
+    to_id: sfGuardUserProfile_26
+    text: '¡Hola Brenda!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_14:
+    from_id: sfGuardUserProfile_4
+    to_id: sfGuardUserProfile_25
+    text: '¡Hola Alan!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_15:
+    from_id: sfGuardUserProfile_5
+    to_id: sfGuardUserProfile_23
+    text: '¡Hola Will!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_16:
+    from_id: sfGuardUserProfile_5
+    to_id: sfGuardUserProfile_17
+    text: '¡Hola Olivia!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_17:
+    from_id: sfGuardUserProfile_7
+    to_id: sfGuardUserProfile_22
+    text: '¡Hola Vince!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_18:
+    from_id: sfGuardUserProfile_8
+    to_id: sfGuardUserProfile_25
+    text: '¡Hola Alan!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_19:
+    from_id: sfGuardUserProfile_8
+    to_id: sfGuardUserProfile_22
+    text: '¡Hola Vince!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_20:
+    from_id: sfGuardUserProfile_8
+    to_id: sfGuardUserProfile_28
+    text: '¡Hola Fred!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_21:
+    from_id: sfGuardUserProfile_8
+    to_id: sfGuardUserProfile_20
+    text: '¡Hola Sally!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_22:
+    from_id: sfGuardUserProfile_8
+    to_id: sfGuardUserProfile_23
+    text: '¡Hola Will!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_23:
+    from_id: sfGuardUserProfile_9
+    to_id: sfGuardUserProfile_6
+    text: '¡Hola Elisabeth!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_24:
+    from_id: sfGuardUserProfile_10
+    to_id: sfGuardUserProfile_25
+    text: '¡Hola Alan!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_25:
+    from_id: sfGuardUserProfile_10
+    to_id: sfGuardUserProfile_24
+    text: '¡Hola Zoey!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_26:
+    from_id: sfGuardUserProfile_11
+    to_id: sfGuardUserProfile_24
+    text: '¡Hola Zoey!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_27:
+    from_id: sfGuardUserProfile_11
+    to_id: sfGuardUserProfile_28
+    text: '¡Hola Fred!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_28:
+    from_id: sfGuardUserProfile_11
+    to_id: sfGuardUserProfile_20
+    text: '¡Hola Sally!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_29:
+    from_id: sfGuardUserProfile_11
+    to_id: sfGuardUserProfile_21
+    text: '¡Hola Tom!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_30:
+    from_id: sfGuardUserProfile_21
+    to_id: sfGuardUserProfile_14
+    text: '¡Hola Linda!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_31:
+    from_id: sfGuardUserProfile_15
+    to_id: sfGuardUserProfile_25
+    text: '¡Hola Alan!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_32:
+    from_id: sfGuardUserProfile_15
+    to_id: sfGuardUserProfile_24
+    text: '¡Hola Zoey!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_33:
+    from_id: sfGuardUserProfile_15
+    to_id: sfGuardUserProfile_17
+    text: '¡Hola Olivia!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_34:
+    from_id: sfGuardUserProfile_18
+    to_id: sfGuardUserProfile_25
+    text: '¡Hola Alan!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_35:
+    from_id: sfGuardUserProfile_18
+    to_id: sfGuardUserProfile_24
+    text: '¡Hola Zoey!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_36:
+    from_id: sfGuardUserProfile_20
+    to_id: sfGuardUserProfile_24
+    text: '¡Hola Zoey!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_37:
+    from_id: sfGuardUserProfile_20
+    to_id: sfGuardUserProfile_22
+    text: '¡Hola Vince!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_38:
+    from_id: sfGuardUserProfile_27
+    to_id: sfGuardUserProfile_26
+    text: '¡Hola Brenda!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+  Request_39:
+    from_id: sfGuardUserProfile_27
+    to_id: sfGuardUserProfile_28
+    text: '¡Hola Fred!'
+    status: Status_1
+    updated_at: '2012-01-01 01:01:01'
+Friendship:
+  Friendship_1:
+    user1_id: sfGuardUserProfile_5
+    user2_id: sfGuardUserProfile_12
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_2:
+    user1_id: sfGuardUserProfile_7
+    user2_id: sfGuardUserProfile_13
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_3:
+    user1_id: sfGuardUserProfile_8
+    user2_id: sfGuardUserProfile_13
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_4:
+    user1_id: sfGuardUserProfile_14
+    user2_id: sfGuardUserProfile_10
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_5:
+    user1_id: sfGuardUserProfile_16
+    user2_id: sfGuardUserProfile_11
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_6:
+    user1_id: sfGuardUserProfile_15
+    user2_id: sfGuardUserProfile_16
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_7:
+    user1_id: sfGuardUserProfile_2
+    user2_id: sfGuardUserProfile_19
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_8:
+    user1_id: sfGuardUserProfile_19
+    user2_id: sfGuardUserProfile_11
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_12:
+    user1_id: sfGuardUserProfile_9
+    user2_id: sfGuardUserProfile_6
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_13:
+    user1_id: sfGuardUserProfile_11
+    user2_id: sfGuardUserProfile_21
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_14:
+    user1_id: sfGuardUserProfile_4
+    user2_id: sfGuardUserProfile_21
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_15:
+    user1_id: sfGuardUserProfile_3
+    user2_id: sfGuardUserProfile_21
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_16:
+    user1_id: sfGuardUserProfile_14
+    user2_id: sfGuardUserProfile_21
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_17:
+    user1_id: sfGuardUserProfile_3
+    user2_id: sfGuardUserProfile_18
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_18:
+    user1_id: sfGuardUserProfile_15
+    user2_id: sfGuardUserProfile_17
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_19:
+    user1_id: sfGuardUserProfile_5
+    user2_id: sfGuardUserProfile_17
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_20:
+    user1_id: sfGuardUserProfile_11
+    user2_id: sfGuardUserProfile_20
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_21:
+    user1_id: sfGuardUserProfile_8
+    user2_id: sfGuardUserProfile_20
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_22:
+    user1_id: sfGuardUserProfile_8
+    user2_id: sfGuardUserProfile_23
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_23:
+    user1_id: sfGuardUserProfile_5
+    user2_id: sfGuardUserProfile_23
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_24:
+    user1_id: sfGuardUserProfile_20
+    user2_id: sfGuardUserProfile_22
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_25:
+    user1_id: sfGuardUserProfile_8
+    user2_id: sfGuardUserProfile_22
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_26:
+    user1_id: sfGuardUserProfile_7
+    user2_id: sfGuardUserProfile_22
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_27:
+    user1_id: sfGuardUserProfile_18
+    user2_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_28:
+    user1_id: sfGuardUserProfile_15
+    user2_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_29:
+    user1_id: sfGuardUserProfile_10
+    user2_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_30:
+    user1_id: sfGuardUserProfile_8
+    user2_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_31:
+    user1_id: sfGuardUserProfile_4
+    user2_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_32:
+    user1_id: sfGuardUserProfile_3
+    user2_id: sfGuardUserProfile_25
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_33:
+    user1_id: sfGuardUserProfile_20
+    user2_id: sfGuardUserProfile_24
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_34:
+    user1_id: sfGuardUserProfile_18
+    user2_id: sfGuardUserProfile_24
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_35:
+    user1_id: sfGuardUserProfile_15
+    user2_id: sfGuardUserProfile_24
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_36:
+    user1_id: sfGuardUserProfile_11
+    user2_id: sfGuardUserProfile_24
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_37:
+    user1_id: sfGuardUserProfile_10
+    user2_id: sfGuardUserProfile_24
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_38:
+    user1_id: sfGuardUserProfile_27
+    user2_id: sfGuardUserProfile_26
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_39:
+    user1_id: sfGuardUserProfile_4
+    user2_id: sfGuardUserProfile_26
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_40:
+    user1_id: sfGuardUserProfile_27
+    user2_id: sfGuardUserProfile_28
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_41:
+    user1_id: sfGuardUserProfile_11
+    user2_id: sfGuardUserProfile_28
+    updated_at: '2012-01-01 01:01:01'
+  Friendship_42:
+    user1_id: sfGuardUserProfile_8
+    user2_id: sfGuardUserProfile_28
+    updated_at: '2012-01-01 01:01:01'
