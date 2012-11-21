@@ -914,14 +914,14 @@ Message:
     to_id: sfGuardUserProfile_3
     is_public: '1'
     is_unread: '0'
-    text: 'Viendo la tele...'
+    text: 'Telebista ikusten...'
     updated_at: '2012-01-01 01:01:01'
   Message_2:
     from_id: sfGuardUserProfile_2
     to_id: sfGuardUserProfile_2
     is_public: '1'
     is_unread: '0'
-    text: 'Leyendo un libro :)'
+    text: 'Liburu bat irakurtzen :)'
     updated_at: '2012-01-01 01:01:01'
   Message_5:
     from_id: sfGuardUserProfile_4
@@ -935,28 +935,28 @@ Message:
     to_id: sfGuardUserProfile_5
     is_public: '1'
     is_unread: '0'
-    text: 'Opcupado, muy ocupado...'
+    text: 'Lanpetuta, oso lanpetuta...'
     updated_at: '2012-01-01 01:01:01'
   Message_7:
     from_id: sfGuardUserProfile_6
     to_id: sfGuardUserProfile_6
     is_public: '1'
     is_unread: '0'
-    text: '¡Nos vamos de acampada!'
+    text: 'Kanpaldira goaz!'
     updated_at: '2012-01-01 01:01:01'
   Message_8:
     from_id: sfGuardUserProfile_7
     to_id: sfGuardUserProfile_7
     is_public: '1'
     is_unread: '0'
-    text: '¡Primero de mi promoción! ¡¡¡bien!!!'
+    text: 'Nire promozioko lehenengoa! Ongiiii!!!'
     updated_at: '2012-01-01 01:01:01'
   Message_9:
     from_id: sfGuardUserProfile_9
     to_id: sfGuardUserProfile_9
     is_public: '1'
     is_unread: '0'
-    text: 'Un nuevo lienzo, mis pinceles y una tare de entera libre...'
+    text: 'Oihal/Mihise berri bat, nire pintzelak eta arratsalde oso bat libre...'
     updated_at: '2012-01-01 01:01:01'
   Message_10:
     from_id: sfGuardUserProfile_8
@@ -970,21 +970,21 @@ Message:
     to_id: sfGuardUserProfile_10
     is_public: '1'
     is_unread: '0'
-    text: '¡Al monte!'
+    text: 'Mendira!'
     updated_at: '2012-01-01 01:01:01'
   Message_12:
     from_id: sfGuardUserProfile_11
     to_id: sfGuardUserProfile_11
     is_public: '1'
     is_unread: '0'
-    text: '¡Por fin es viernes!'
+    text: 'Iritsi da ostirala azkenean!'
     updated_at: '2012-01-01 01:01:01'
   Message_14:
     from_id: sfGuardUserProfile_21
     to_id: sfGuardUserProfile_21
     is_public: '1'
     is_unread: '0'
-    text: 'Me encanta San Francisco!'
+    text: 'Benetan gustokoa dut San Frantzisko!'
     updated_at: '2012-01-01 01:01:01'
   Message_15:
     from_id: sfGuardUserProfile_12
@@ -998,103 +998,103 @@ Message:
     to_id: sfGuardUserProfile_15
     is_public: '1'
     is_unread: '0'
-    text: '¡Recién casado! :)'
+    text: 'Ezkonberria! :)'
     updated_at: '2012-01-01 01:01:01'
   Message_17:
     from_id: sfGuardUserProfile_14
     to_id: sfGuardUserProfile_21
     is_public: '0'
     is_unread: '1'
-    text: '¡Me encanta etiquetar a mis amigos en mis fotos!'
+    text: 'Nire lagunak argazkietan etiketatzea izugarri gustatzen zait!'
     updated_at: '2012-01-01 01:01:01'
   Message_18:
     from_id: sfGuardUserProfile_16
     to_id: sfGuardUserProfile_16
     is_public: '1'
     is_unread: '0'
-    text: 'Programando mi propio sistema operativo... ¡interesante! :)'
+    text: 'Neure Sistema Eragile pertsonala programatzen... interesgarria! :)'
     updated_at: '2012-01-01 01:01:01'
   Message_19:
     from_id: sfGuardUserProfile_18
     to_id: sfGuardUserProfile_18
     is_public: '1'
     is_unread: '0'
-    text: '¡En el escenario!'
+    text: 'Eszenatokian!'
     updated_at: '2012-01-01 01:01:01'
   Message_20:
     from_id: sfGuardUserProfile_17
     to_id: sfGuardUserProfile_17
     is_public: '1'
     is_unread: '0'
-    text: 'Leyendo un libro...'
+    text: 'Liburu bat irakurtzen...'
     updated_at: '2012-01-01 01:01:01'
   Message_21:
     from_id: sfGuardUserProfile_19
     to_id: sfGuardUserProfile_19
     is_public: '1'
     is_unread: '0'
-    text: 'Necesito relajarme...'
+    text: 'Lasaitu behar naiz...'
     updated_at: '2012-01-01 01:01:01'
   Message_22:
     from_id: sfGuardUserProfile_20
     to_id: sfGuardUserProfile_20
     is_public: '1'
     is_unread: '0'
-    text: 'Actualizando mi blog :)'
+    text: 'Nire bloga eguneratzen :)'
     updated_at: '2012-01-01 01:01:01'
   Message_23:
     from_id: sfGuardUserProfile_23
     to_id: sfGuardUserProfile_23
     is_public: '1'
     is_unread: '0'
-    text: '¡Una fiesta increíble esta noche!'
+    text: 'Izugarrizko jaia gaurko gauekoa!'
     updated_at: '2012-01-01 01:01:01'
   Message_24:
     from_id: sfGuardUserProfile_22
     to_id: sfGuardUserProfile_22
     is_public: '1'
     is_unread: '0'
-    text: 'Otra promoción sale de la universidad, ¡enhorabuena!'
+    text: 'Promozio berri bat graduatu da unibertsitatean, zorionak!'
     updated_at: '2012-01-01 01:01:01'
   Message_25:
     from_id: sfGuardUserProfile_25
     to_id: sfGuardUserProfile_25
     is_public: '1'
     is_unread: '0'
-    text: '¡A patinar!'
+    text: 'Patinatzera!'
     updated_at: '2012-01-01 01:01:01'
   Message_26:
     from_id: sfGuardUserProfile_24
     to_id: sfGuardUserProfile_24
     is_public: '1'
     is_unread: '0'
-    text: 'Escuchando música...'
+    text: 'Musika entzuten...'
     updated_at: '2012-01-01 01:01:01'
   Message_27:
     from_id: sfGuardUserProfile_27
     to_id: sfGuardUserProfile_27
     is_public: '1'
     is_unread: '0'
-    text: '¡Volando hacia Paris!'
+    text: 'Pariserako hegaldian!'
     updated_at: '2012-01-01 01:01:01'
   Message_28:
     from_id: sfGuardUserProfile_28
     to_id: sfGuardUserProfile_28
     is_public: '1'
     is_unread: '0'
-    text: '¡A escalar!'
+    text: 'Eskalatzera!'
     updated_at: '2012-01-01 01:01:01'
   Message_30:
     from_id: sfGuardUserProfile_26
     to_id: sfGuardUserProfile_26
     is_public: '1'
     is_unread: '0'
-    text: 'Salgamos a bailar :)'
+    text: 'Joan gaitezen dantza egitera :)'
     updated_at: '2012-01-01 01:01:01'
 Picture:
   Picture_1:
     owner_id: sfGuardUserProfile_14
-    title: '¡Sé feliz!'
+    title: 'Zoriontsua izan zaitez!'
     photo: 77f74b1a0428c33f43fe13f272b85d4266676141.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_2:
@@ -1104,12 +1104,12 @@ Picture:
     updated_at: '2012-01-01 01:01:01'
   Picture_3:
     owner_id: sfGuardUserProfile_3
-    title: 'En el parque'
+    title: 'Parkean'
     photo: 63567f30cc053066b1f63cb1ff9982c00139b3f2.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_4:
     owner_id: sfGuardUserProfile_4
-    title: '¡Hola!'
+    title: 'Kaixo!'
     photo: f93e74fca94ff9b5ede1807f3698ccbb4ad4be32.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_5:
@@ -1124,7 +1124,7 @@ Picture:
     updated_at: '2012-01-01 01:01:01'
   Picture_7:
     owner_id: sfGuardUserProfile_6
-    title: 'El valle'
+    title: 'Bailara'
     photo: 3891ff1c2b3b8cc65dd20381b6af7624c686d3be.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_8:
@@ -1139,17 +1139,17 @@ Picture:
     updated_at: '2012-01-01 01:01:01'
   Picture_10:
     owner_id: sfGuardUserProfile_7
-    title: '¡Hurra!'
+    title: 'Aupa!'
     photo: 3316f31b486ed2096a968a62f969fe472e2f9d7f.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_11:
     owner_id: sfGuardUserProfile_7
-    title: 'Muy feliz :)'
+    title: 'Oso zoriontsua :)'
     photo: c933b5fe269311ff85e0f102bd3d0b13e108c5df.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_12:
     owner_id: sfGuardUserProfile_9
-    title: 'Elisabeth y yo'
+    title: 'Elisabeth eta biok'
     photo: 74ef8c28e69b650791d83006043ac97545877198.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_13:
@@ -1159,12 +1159,12 @@ Picture:
     updated_at: '2012-01-01 01:01:01'
   Picture_14:
     owner_id: sfGuardUserProfile_11
-    title: 'Día agradable'
+    title: 'Egun atsegina'
     photo: 4c37055d6b38f1c10c1bfb4e3bce79bb234c0f33.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_15:
     owner_id: sfGuardUserProfile_21
-    title: 'Linda y yo'
+    title: 'Linda eta biok'
     photo: 7fe39a7a3c12635b1d76be3902b3b45acea0a320.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_16:
@@ -1174,12 +1174,12 @@ Picture:
     updated_at: '2012-01-01 01:01:01'
   Picture_17:
     owner_id: sfGuardUserProfile_21
-    title: 'Un descanso'
+    title: 'Atsedenaldi bat'
     photo: fbb0bbba386dfbbfb6aaabacd76cdd8e87a4c274.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_18:
     owner_id: sfGuardUserProfile_12
-    title: 'La pandilla'
+    title: 'Kuadrila'
     photo: 16e492e3ddb123ea44a4b13771236f4abed5da8b.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_19:
@@ -1189,22 +1189,22 @@ Picture:
     updated_at: '2012-01-01 01:01:01'
   Picture_20:
     owner_id: sfGuardUserProfile_15
-    title: 'El mejor día de mi vida'
+    title: 'Nire bizitzako egunik hoberena'
     photo: d6e14990e5f86389b640f6738b838f4744c2112d.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_21:
     owner_id: sfGuardUserProfile_14
-    title: 'Calma'
+    title: 'Lasaitasuna'
     photo: 49732294e7dd633232fc1b82352b76241cc9b73e.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_22:
     owner_id: sfGuardUserProfile_16
-    title: 'Vieja granja'
+    title: 'Etxalde zahar'
     photo: 409af11bb719bc4f78613a1e424e99b9b27e37fe.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_23:
     owner_id: sfGuardUserProfile_18
-    title: 'Hogar dulce hogar'
+    title: 'Etxean, goxo-goxo'
     photo: c7c29d95a0abe403bccba4bc133b645469a450ca.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_24:
@@ -1219,27 +1219,27 @@ Picture:
     updated_at: '2012-01-01 01:01:01'
   Picture_26:
     owner_id: sfGuardUserProfile_22
-    title: 'Graduación'
+    title: 'Graduazioa'
     photo: 1b1bf3300525a5b32c5e9411fad81d2a9f224a8e.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_27:
     owner_id: sfGuardUserProfile_24
-    title: 'Diversión'
+    title: 'Jostaketa'
     photo: f2df12f1e59d27a1694cec0a8adbac0fc4e78395.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_28:
     owner_id: sfGuardUserProfile_27
-    title: 'Lugar maravilloso'
+    title: 'Leku liluragarria'
     photo: 96d560f134d9ff84ab352f7f85d825dba0f948de.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_29:
     owner_id: sfGuardUserProfile_28
-    title: '¡Sonríe!'
+    title: 'irribarre egin!'
     photo: d63d7d668983fe280098134c90467e54129dee72.jpg
     updated_at: '2012-01-01 01:01:01'
   Picture_30:
     owner_id: sfGuardUserProfile_28
-    title: 'Falta poco'
+    title: 'Gutxi falta da'
     photo: dc94231888215a8c6182061c587bc81e7945325c.jpg
     updated_at: '2012-01-01 01:01:01'
 Bot:
@@ -1619,235 +1619,235 @@ Request:
   Request_1:
     from_id: sfGuardUserProfile_5
     to_id: sfGuardUserProfile_12
-    text: '¡Hola Kate!'
+    text: 'Kaixo Kate!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_2:
     from_id: sfGuardUserProfile_7
     to_id: sfGuardUserProfile_13
-    text: '¡Hola Laura!'
+    text: 'Kaixo Laura!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_3:
     from_id: sfGuardUserProfile_8
     to_id: sfGuardUserProfile_13
-    text: '¡Hola Laura!'
+    text: 'Kaixo Laura!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_4:
     from_id: sfGuardUserProfile_14
     to_id: sfGuardUserProfile_10
-    text: '¡Hola Igor!'
+    text: 'Kaixo Igor!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_5:
     from_id: sfGuardUserProfile_16
     to_id: sfGuardUserProfile_11
-    text: '¡Hola Jack!'
+    text: 'Kaixo Jack!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_6:
     from_id: sfGuardUserProfile_15
     to_id: sfGuardUserProfile_16
-    text: '¡Hola there!'
+    text: 'Hi there!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_7:
     from_id: sfGuardUserProfile_2
     to_id: sfGuardUserProfile_19
-    text: '¡Hola Ryan!'
+    text: 'Kaixo Ryan!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_8:
     from_id: sfGuardUserProfile_19
     to_id: sfGuardUserProfile_11
-    text: '¡Hola Jack!'
+    text: 'Kaixo Jack!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_9:
     from_id: sfGuardUserProfile_3
     to_id: sfGuardUserProfile_18
-    text: '¡Hola Peter!'
+    text: 'Kaixo Peter!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_10:
     from_id: sfGuardUserProfile_3
     to_id: sfGuardUserProfile_25
-    text: '¡Hola Alan!'
+    text: 'Kaixo Alan!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_11:
     from_id: sfGuardUserProfile_3
     to_id: sfGuardUserProfile_21
-    text: '¡Hola Tom!'
+    text: 'Kaixo Tom!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_12:
     from_id: sfGuardUserProfile_4
     to_id: sfGuardUserProfile_21
-    text: '¡Hola Tom!'
+    text: 'Kaixo Tom!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_13:
     from_id: sfGuardUserProfile_4
     to_id: sfGuardUserProfile_26
-    text: '¡Hola Brenda!'
+    text: 'Kaixo Brenda!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_14:
     from_id: sfGuardUserProfile_4
     to_id: sfGuardUserProfile_25
-    text: '¡Hola Alan!'
+    text: 'Kaixo Alan!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_15:
     from_id: sfGuardUserProfile_5
     to_id: sfGuardUserProfile_23
-    text: '¡Hola Will!'
+    text: 'Kaixo Will!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_16:
     from_id: sfGuardUserProfile_5
     to_id: sfGuardUserProfile_17
-    text: '¡Hola Olivia!'
+    text: 'Kaixo Olivia!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_17:
     from_id: sfGuardUserProfile_7
     to_id: sfGuardUserProfile_22
-    text: '¡Hola Vince!'
+    text: 'Kaixo Vince!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_18:
     from_id: sfGuardUserProfile_8
     to_id: sfGuardUserProfile_25
-    text: '¡Hola Alan!'
+    text: 'Kaixo Alan!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_19:
     from_id: sfGuardUserProfile_8
     to_id: sfGuardUserProfile_22
-    text: '¡Hola Vince!'
+    text: 'Kaixo Vince!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_20:
     from_id: sfGuardUserProfile_8
     to_id: sfGuardUserProfile_28
-    text: '¡Hola Fred!'
+    text: 'Kaixo Fred!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_21:
     from_id: sfGuardUserProfile_8
     to_id: sfGuardUserProfile_20
-    text: '¡Hola Sally!'
+    text: 'Kaixo Sally!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_22:
     from_id: sfGuardUserProfile_8
     to_id: sfGuardUserProfile_23
-    text: '¡Hola Will!'
+    text: 'Kaixo Will!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_23:
     from_id: sfGuardUserProfile_9
     to_id: sfGuardUserProfile_6
-    text: '¡Hola Elisabeth!'
+    text: 'Kaixo Elisabeth!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_24:
     from_id: sfGuardUserProfile_10
     to_id: sfGuardUserProfile_25
-    text: '¡Hola Alan!'
+    text: 'Kaixo Alan!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_25:
     from_id: sfGuardUserProfile_10
     to_id: sfGuardUserProfile_24
-    text: '¡Hola Zoey!'
+    text: 'Kaixo Zoey!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_26:
     from_id: sfGuardUserProfile_11
     to_id: sfGuardUserProfile_24
-    text: '¡Hola Zoey!'
+    text: 'Kaixo Zoey!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_27:
     from_id: sfGuardUserProfile_11
     to_id: sfGuardUserProfile_28
-    text: '¡Hola Fred!'
+    text: 'Kaixo Fred!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_28:
     from_id: sfGuardUserProfile_11
     to_id: sfGuardUserProfile_20
-    text: '¡Hola Sally!'
+    text: 'Kaixo Sally!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_29:
     from_id: sfGuardUserProfile_11
     to_id: sfGuardUserProfile_21
-    text: '¡Hola Tom!'
+    text: 'Kaixo Tom!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_30:
     from_id: sfGuardUserProfile_21
     to_id: sfGuardUserProfile_14
-    text: '¡Hola Linda!'
+    text: 'Kaixo Linda!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_31:
     from_id: sfGuardUserProfile_15
     to_id: sfGuardUserProfile_25
-    text: '¡Hola Alan!'
+    text: 'Kaixo Alan!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_32:
     from_id: sfGuardUserProfile_15
     to_id: sfGuardUserProfile_24
-    text: '¡Hola Zoey!'
+    text: 'Kaixo Zoey!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_33:
     from_id: sfGuardUserProfile_15
     to_id: sfGuardUserProfile_17
-    text: '¡Hola Olivia!'
+    text: 'Kaixo Olivia!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_34:
     from_id: sfGuardUserProfile_18
     to_id: sfGuardUserProfile_25
-    text: '¡Hola Alan!'
+    text: 'Kaixo Alan!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_35:
     from_id: sfGuardUserProfile_18
     to_id: sfGuardUserProfile_24
-    text: '¡Hola Zoey!'
+    text: 'Kaixo Zoey!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_36:
     from_id: sfGuardUserProfile_20
     to_id: sfGuardUserProfile_24
-    text: '¡Hola Zoey!'
+    text: 'Kaixo Zoey!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_37:
     from_id: sfGuardUserProfile_20
     to_id: sfGuardUserProfile_22
-    text: '¡Hola Vince!'
+    text: 'Kaixo Vince!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_38:
     from_id: sfGuardUserProfile_27
     to_id: sfGuardUserProfile_26
-    text: '¡Hola Brenda!'
+    text: 'Kaixo Brenda!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
   Request_39:
     from_id: sfGuardUserProfile_27
     to_id: sfGuardUserProfile_28
-    text: '¡Hola Fred!'
+    text: 'Kaixo Fred!'
     status: Status_1
     updated_at: '2012-01-01 01:01:01'
 Friendship:
