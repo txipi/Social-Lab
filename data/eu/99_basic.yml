@@ -880,7 +880,7 @@ Automsg:
   Automsg_5:
     text: 'Zer dela eta ezagutzen zaitut?'
   Automsg_6:
-    text: chin
+    text: txin
   Automsg_7:
     text: 'Ederki ondo egin duzu! <br/><br/>Zure laugarren ataza hacker sozial gisa %s-ren adiskidetasuna lortzean datza. <br/><br/>Argibidea: Friends will be friends... abesti polit bat da, ez duzu uste?'
     user_id: sfGuardUserProfile_5
