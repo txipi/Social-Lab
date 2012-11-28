@@ -706,11 +706,11 @@
     </trans-unit>
       <trans-unit id="176">
         <source>&lt;strong&gt;Social Lab&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
-        <target>&lt;strong&gt;Social Lab&lt;/strong&gt;-ek egiazko sare sozial baten oinarrizko ezaugarriak erabiltzen ditu (adiskidetasun eskaerak, egoeraren eguneraketak, mezu pribatuak, argazkiak, orriak, etab.) probak egiteko kutxa seguru bat eskainiz (&amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot; deritzona), non sare sozialetan gertatzen diren erlaziak azter daitezkeen.</target>
+        <target>&lt;strong&gt;Social Lab&lt;/strong&gt;-ek egiazko sare sozial baten oinarrizko ezaugarriak erabiltzen ditu (adiskidetasun eskaerak, egoeraren eguneraketak, mezu pribatuak, argazkiak, orriak, etab.) probak egiteko kutxa seguru bat eskainiz (&amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot; deritzona), non sare sozialetan gertatzen diren erlazioak azter daitezkeen.</target>
       </trans-unit>
       <trans-unit id="177">
         <source>The purpose of the game is to &lt;strong&gt;learn&lt;/strong&gt; some of the techniques used by social hackers in order to &lt;strong&gt;prevent&lt;/strong&gt; this kind of attacks in real social networks.</source>
-        <target>Joku honen helburua, hacker sozialek erabiltzen dituzten zenbait teknika &lt;strong&gt;ikastean&lt;/strong&gt; datza, gero eraso mota horiek egiazko sare sozialetan &lt;strong&gt;ekidin&lt;/strong&gt;.</target>
+        <target>Joku honen helburua, hacker sozialek erabiltzen dituzten zenbait teknika &lt;strong&gt;ikastean&lt;/strong&gt; datza, gero eraso mota horiek egiazko sare sozialetan &lt;strong&gt;ekidin&lt;/strong&gt; ahal izateko.</target>
       </trans-unit>
       <trans-unit id="178">
         <source>How to play</source>
