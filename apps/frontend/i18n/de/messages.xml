@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2012-11-07T18:05:20Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>What is Social Lab?</source>
+        <target>Was ist Social Lab?</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Terms of Use</source>
+        <target>Nutzungsbedingungen</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>About</source>
+        <target>Über</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Send request</source>
+        <target>Anfrage senden</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Send a message to</source>
+        <target>Nachricht senden an</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Update status</source>
+        <target>Status updaten</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Send message</source>
+        <target>Nachricht schicken</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Post on this wall</source>
+        <target>An diese Wand schreiben</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Sign up</source>
+        <target>Einschreiben</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Requests</source>
+        <target>Anfragen</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Incoming</source>
+        <target>Hereinkommend</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>%user% asked to be a friend (%time% ago)</source>
+        <target>%user% hat eine Freundschaftsanfrage geschickt (vor %time%)</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Accept</source>
+        <target>Annehmen</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Reject</source>
+        <target>Ablehnen</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>and was &lt;strong&gt;accepted&lt;/strong&gt;</source>
+        <target>und war &lt;strong&gt;aceptada&lt;/strong&gt;</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>and was &lt;strong&gt;rejected&lt;/strong&gt;</source>
+        <target>und war &lt;strong&gt;rechazada&lt;/strong&gt;</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>There are &lt;strong&gt;no&lt;/strong&gt; incoming friendship requests.</source>
+        <target>Du hast &lt;strong&gt;No&lt;/strong&gt; Freundschaftsanfragen.</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Sent</source>
+        <target>Verschickt</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>was asked to be a friend</source>
+        <target>wurde als Freund angefragt</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>&lt;strong&gt;accepted&lt;/strong&gt; to be a friend</source>
+        <target>&lt;strong&gt;nimm&lt;/strong&gt; die Freundschaftsanfrage an</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>&lt;strong&gt;rejected&lt;/strong&gt; to be a friend</source>
+        <target>&lt;strong&gt;lehne&lt;/strong&gt; die Freundschaftsanfrage ab</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>(%time% ago)</source>
+        <target>(vor %time%)</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>There are &lt;strong&gt;no&lt;/strong&gt; sent friendship requests.</source>
+        <target>&lt;strong&gt;Keine&lt;/strong&gt; Freundschaftsanfragen.</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Your pages</source>
+        <target>Deine Seiten</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Edit</source>
+        <target>Editieren</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>You own no pages ;-(</source>
+        <target>Du hast keine Seiten ;-(</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Create a new page</source>
+        <target>Eine neue Seite erstellen</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Your favorite pages</source>
+        <target>Deine Lieblingsseiten</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Remove you from fans</source>
+        <target>Dich als Fan abmelden</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>You like no pages ;-(</source>
+        <target>Du magst keine Seiten ;-(</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Search pages</source>
+        <target>Seiten durchsuchen</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>The wall of %user%</source>
+        <target>Die Wand von %user%</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Delete</source>
+        <target>Löschen</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Are you sure?</source>
+        <target>Bist Du sicher?</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>There are &lt;strong&gt;no&lt;/strong&gt; posts on this wall.</source>
+        <target>&lt;strong&gt;Keine&lt;/strong&gt; Einträge an dieser Wand.</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Pictures of %user%</source>
+        <target>Fotos von %user%</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Information unavailable.</source>
+        <target>Information nicht verfügbar.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>%user% has been tagged in these pictures</source>
+        <target>%user% ist auf diesen Fotos markiert worden</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Personal information</source>
+        <target>Persönliche Information</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Location</source>
+        <target>Ort</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Academic information</source>
+        <target>Akademische Information</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Privacy settings</source>
+        <target>Privatsphäreneinstellungen</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Save changes</source>
+        <target>Änderungen speichern</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Edit profile</source>
+        <target>Profil bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Messages</source>
+        <target>Nachrichten</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Send a message...</source>
+        <target>Nachricht senden...</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Inbox</source>
+        <target>Eingang</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Mark as read</source>
+        <target>Als gelesen markieren</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Mark as unread</source>
+        <target>Als ungelesen markieren</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>There are &lt;strong&gt;no&lt;/strong&gt; personal messages for this profile.</source>
+        <target>&lt;strong&gt;Keine&lt;/strong&gt; persönlichen Nachrichten vorhanden für dieses Profil.</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Outbox</source>
+        <target>Ausgänge</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>There are &lt;strong&gt;no&lt;/strong&gt; personal messages from this profile.</source>
+        <target>&lt;strong&gt;Keine&lt;/strong&gt; persönlichen Nachrichten vorhanden für dieses Profil.</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Block friend</source>
+        <target>Freund blockieren</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Add friend</source>
+        <target>Freund ergänzen</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Your pictures</source>
+        <target>Deine Fotos</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>You have no pictures ;-(</source>
+        <target>Du hast keine Fotos ;-(</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Upload a picture</source>
+        <target>Ein Foto hochladen</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>You have been tagged in these pictures</source>
+        <target>Du bist in diesen Fotos markiert worden</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Untag</source>
+        <target>Markieren entfernen</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>You have not been tagged in any picture ;-(</source>
+        <target>Du bist noch in keinem Foto markiert worden ;-(</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>e-mail</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Gender</source>
+        <target>Geschlecht</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Birthday</source>
+        <target>Geburtstag</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Town</source>
+        <target>Ort</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Country</source>
+        <target>Land</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Academic title</source>
+        <target>Akademischer Titel</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Academic center</source>
+        <target>Akademisches Zentrum</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Promotion</source>
+        <target>Promotion</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Recent posts...</source>
+        <target>Neueste Einträge...</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>There are &lt;strong&gt;no&lt;/strong&gt; recent posts.</source>
+        <target>&lt;strong&gt;Keine&lt;/strong&gt; neuen Einträge.</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Become a fan</source>
+        <target>Werde ein Fan</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>There are no pages available ;-(</source>
+        <target>Keine Seiten verfügbar ;-(</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Friendship request</source>
+        <target>Freundschaftsanfrage</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Asking &lt;strong&gt;%name%&lt;/strong&gt; to be a friend...</source>
+        <target>%name% als Freund anfragen...</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Favourite pages of %user%</source>
+        <target>Beliebteste Seiten von %user%</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Wall</source>
+        <target>Wand</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>View profile</source>
+        <target>Profil anschauen</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Friends</source>
+        <target>Freunde</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Pictures</source>
+        <target>Fotos</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Pages</source>
+        <target>Seiten</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Search friends</source>
+        <target>Freundschaften durchsuchen</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Profile</source>
+        <target>Profil</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Sign out</source>
+        <target>Abmelden</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Sign in</source>
+        <target>Einloggen</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>You have no friends ;-(</source>
+        <target>Du hast keine Freunde ;-(</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Friends of %user%</source>
+        <target>Freunde von %user%</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Access to this information:</source>
+        <target>Zugang zu dieser Information:</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Save</source>
+        <target>Speichern</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Update picture</source>
+        <target>Foto aktualisieren</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Tagged friends</source>
+        <target>Markierte Freunde</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>This picture has no tags ;-(</source>
+        <target>Dieses Foto ist nicht markiert ;-(</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Tag a friend</source>
+        <target>Einen Freund markieren</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Social Lab's Terms of Use</source>
+        <target>Geschäftsbedingungen des Social Lab</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>These Terms of Use are Effective as of June 1, 2012</source>
+        <target>Diese Geschäftsbedingungen treten mit dem 1. Juni 2012 in Kraft</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Your Agreement to the Terms</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>YOUR ACCESS OR USE OF ANY WEBSITE OR SERVICE IN ANY WAY SIGNIFIES THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THE TERMS. By accessing or using any Website or Service you also represent that you have the legal authority to accept the Terms on behalf of yourself and any party you represent in connection with your use of any Website or Service. If you do not agree to the Terms, you are not authorized to use any Website or Service.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Changes to the Terms</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>From time to time, &lt;strong&gt;Social Lab&lt;/strong&gt; may change, remove, add to (including without limitation by way of Additional Terms) or otherwise modify the Terms, and reserves the right to do so in its discretion. In that case, we will post the updated Terms or Additional Terms, as relevant, to the applicable Website(s) and indicate the date of revision. We encourage you to periodically review the Terms. All new and/or amended Terms take effect immediately; provided, however, that if deemed material by &lt;strong&gt;Social Lab&lt;/strong&gt; it its sole discretion, such new and/or additional material terms will be marked as such and will take effect 30 days after they are posted on the applicable Website. Notwithstanding the foregoing, (i) no modification to the Terms will apply to any dispute between you and &lt;strong&gt;Social Lab&lt;/strong&gt; that arose prior to the effective date of any modification and (ii) if you do not agree with any modification to the Terms, you may terminate this agreement by ceasing use of the Websites and Services. Your continued use of any Website or Service after new and/or revised Terms are effective indicate that you have read, understood and agreed to those Terms.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Provision of the Websites and Services Generally</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; makes the Websites and Services available to you on the Terms. You may only use the Websites and Services in accordance with these Terms and any applicable Additional Terms. In particular but without limitation, you may not use the Websites and Services for any purpose that is unlawful or prohibited by these Terms, any applicable Additional Terms, or any other conditions or notices that are made available on any Website or Service.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Location of the Websites and Services</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The Websites and Services are controlled and offered by &lt;strong&gt;Social Lab&lt;/strong&gt; from its facilities in Spain. &lt;strong&gt;Social Lab&lt;/strong&gt; makes no representations that the Websites or Services are appropriate or available for use in other locations. If you are accessing or using any Website or Service from other jurisdictions, you do so at your own risk and you are responsible for compliance with local law. Notwithstanding the foregoing, the Websites may contain or provide links to Content (defined below) hosted on websites located outside of Spain.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>User Conduct</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Users agree not to use the Websites or Services to:</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Post, use or transmit Content that you do not have the right to post or use, for example, under intellectual property, confidentiality, privacy or other applicable laws;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Post, use or transmit unsolicited or unauthorized Content, including advertising or promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of unsolicited or unwelcome solicitation or advertising;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Post, use or transmit Content that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment or otherwise interfere with or disrupt the Websites or Services or servers or networks connected to the Websites or Services, or that disobeys any requirements, procedures, policies or regulations of networks connected to the Websites or Services;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Post or transmit Content that is harmful, offensive, obscene, abusive, invasive of privacy, defamatory, hateful or otherwise discriminatory, false and misleading, incites an illegal act, or is otherwise in breach of your obligations to any person or contrary to any applicable laws and regulations;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Intimidate or harass another;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Use or attempt to use another’s account, service, or personal information;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>Remove, circumvent, disable, damage or otherwise interfere with any security-related features that enforce limitations on the use of the Websites or Services;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Attempt to gain unauthorized access to the Websites or Services, other accounts, computer systems or networks connected to the Websites or Services, through hacking password mining or any other means or interfere or attempt to interfere with the proper working of the Websites or Services or any activities conducted through the Websites or Services;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Use any means to bypass or ignore robot.txt, or other measures we use to restrict access or use of the Websites or Services;</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Impersonate another person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity; or</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Post or transmit any personally identifiable information about persons under 13 years of age, including without limitation in connection with the Services offered thereon.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>In addition, you may not (and may not authorize another party to): (i) frame or otherwise co-brand the Websites or Services (for example, by displaying a name, logo, trademark or other means of attribution of a third party that is reasonably likely to give the user the impression that that third party has the right to display, publish or distribute the Website or Service); or, (ii) use any Website or Service in any manner that could disable, overburden, damage or impair such Website or Service, or interfere with any other party’s use and enjoyment of any Website or Service.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Terms Relating to Content on the Websites and Services</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Responsibility for Content</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>You understand that all material, data and information, such as data files, written text, computer software, music, audio files or other sounds, photographs, videos or other images (collectively, “Content”) which you may have access to as part of, or through your use of, the Websites and Services are the sole responsibility of the person from which such Content originated. This includes assertions that persons may make, expressly or impliedly, about the provenance and ownership of Content that they supply, upload, list and/or link to.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>You acknowledge that &lt;strong&gt;Social Lab&lt;/strong&gt; does not make any representations or warranties about the Content, including without limitation, about the accuracy, integrity or quality of the Content made available at the instigation of users of the Websites and Services. You understand that by using the Websites and Services, you may be exposed to Content that is offensive, indecent or objectionable. Under no circumstances is &lt;strong&gt;Social Lab&lt;/strong&gt; liable in any way for any Content, including, but not limited to: any infringing Content, any errors or omissions in Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, transmitted to, linked to or otherwise accessible or made available via the Websites and Services.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Content You Provide</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>You may only submit Content to the Websites or in connection with the Services that you have the right to submit. This means that you can only submit Content that you yourself create, that is in the public domain or that you have been expressly granted the right to submit consistent with the Terms. For the avoidance of doubt, Content that infringes the rights of any third party (e.g., Content used without express permission of the copyright owner and not otherwise permitted by law) must not be submitted. You represent, warrant and agree that no Content of any kind submitted, posted or otherwise shared by you on or through any of the Websites or Services, violates or infringes upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary rights, or contains libelous, defamatory or otherwise unlawful material. Further, you represent, warrant and agree not to submit any personally identifiable information, including any Content containing personally identifiable information, about any person who is under 13 years of age.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; may, but is not obligated to, review your submissions and may delete or remove (without notice) any Content in its sole discretion that &lt;strong&gt;Social Lab&lt;/strong&gt; determines violates the Terms or that may be offensive, illegal, or that might violate the rights, harm or threaten the safety of others. &lt;strong&gt;Social Lab&lt;/strong&gt; does not endorse or support any Content posted by you or any other third party on or through the Websites or Services. You alone are responsible for creating backup copies and replacing any Content you post on the Websites or Services, and you authorize &lt;strong&gt;Social Lab&lt;/strong&gt; to make copies of your Content as we deem necessary in order to facilitate the posting of your Content on the Websites or Services.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Registered Users</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>Only persons who are over the age of majority in their jurisdiction (which typically is 18, but may be different in your jurisdiction) and fully competent to enter into the terms, conditions, obligations, affirmations, representations and warranties set forth in the Terms and to abide by and comply with the Terms may register for an account and use the related Services; provided, however, that if you are under the age of majority in your jurisdiction but over 13 years of age, you may join with the express permission of your parent or legal guardian. Any registration by, use of or access to the Services provided to Registered Users (defined below) by anyone (1) under the age of 13 or (2) under the age of majority in their jurisdiction but without parental or guardian permission, is unauthorized, unlicensed and a violation of these Terms. By registering for an account on any of the Websites or using the related Services, you represent and warrant that you (1) are the age of majority in your jurisdiction or, (2) are over the age of 13 and have the express permission of a legal guardian to become a Registered User and use Services made available to Registered Users, and you further agree to abide by all of the terms and conditions of these Terms and any applicable Additional Terms.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>In addition, &lt;strong&gt;Social Lab&lt;/strong&gt; may, at any time: (a) modify, suspend or terminate the operation of or access to your user account for any reason; (b) modify or change such Websites and Services and any applicable Terms and policies governing your user account and related Websites and Services for any reason; and (c) interrupt user accounts and related Websites and Services for any reason, all as &lt;strong&gt;Social Lab&lt;/strong&gt; deems appropriate in its discretion. Your access to your account, and use of the related Websites and Services may be terminated by you or by &lt;strong&gt;Social Lab&lt;/strong&gt; at any time and for any reason whatsoever, without notice.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>In addition, &lt;strong&gt;Social Lab&lt;/strong&gt; reserves the right to delete and purge any account and all Content associated therewith following any prolonged period of inactivity, all as may be determined by &lt;strong&gt;Social Lab&lt;/strong&gt; in its complete discretion.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>DISCLAIMER OF WARRANTIES</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>TO THE FULLEST EXTENT PERMITTED BY THE APPLICABLE LAW, &lt;strong&gt;Social Lab&lt;/strong&gt; OFFERS THE WEBSITES AND SERVICES AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WEBSITES OR SERVICES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. &lt;strong&gt;Social Lab&lt;/strong&gt; DOES NOT WARRANT THAT THE FUNCTIONS OR CONTENT CONTAINED ON THE WEBSITE OR SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT &lt;strong&gt;Social Lab&lt;/strong&gt;’S SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. &lt;strong&gt;Social Lab&lt;/strong&gt; DOES NOT WARRANT OR MAKE ANY REPRESENTATION REGARDING USE OR THE RESULT OF USE OF THE CONTENT IN TERMS OF ACCURACY, RELIABILITY, OR OTHERWISE.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>LIMITATION OF LIABILITY</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW AND THEN ONLY TO THAT EXTENT, IN NO EVENT WILL &lt;strong&gt;Social Lab&lt;/strong&gt;, ITS EMPLOYEES, OFFICERS, DIRECTORS, AFFILIATES OR AGENTS BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY INCIDENTAL, DIRECT, INDIRECT, PUNITIVE, ACTUAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY OR OTHER DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE OR INCOME, LOST PROFITS, PAIN AND SUFFERING, EMOTIONAL DISTRESS, COST OF SUBSTITUTE GOODS OR SERVICES, OR SIMILAR DAMAGES SUFFERED OR INCURRED BY YOU OR ANY THIRD PARTY THAT ARISE IN CONNECTION WITH THE WEBSITES OR SERVICES (OR THE TERMINATION THEREOF FOR ANY REASON), EVEN IF THE &lt;strong&gt;Social Lab&lt;/strong&gt; PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>THE &lt;strong&gt;Social Lab&lt;/strong&gt; PARTIES SHALL NOT BE RESPONSIBLE OR LIABLE WHATSOEVER IN ANY MANNER FOR ANY CONTENT POSTED ON THE WEBSITES OR SERVICES (INCLUDING CLAIMS OF INFRINGEMENT RELATING TO CONTENT POSTED ON THE WEBSITES OR SERVICES, FOR YOUR USE OF THE WEBSITES AND SERVICES, OR FOR THE CONDUCT OF THIRD PARTIES WHETHER ON THE WEBSITES, IN CONNECTION WITH THE SERVICES OR OTHERWISE RELATING TO THE WEBSITES OR SERVICES.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Indemnification for Breach of Terms of Use</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>You agree to indemnify and hold harmless the &lt;strong&gt;Social Lab&lt;/strong&gt; Parties from and against any and all loss, expenses, damages, and costs, including without limitation reasonable attorneys fees, resulting, whether directly or indirectly, from your violation of the Terms. You also agree to indemnify and hold harmless the &lt;strong&gt;Social Lab&lt;/strong&gt; Parties from and against any and all claims brought by third parties arising out of your use of any of the Websites or Services and the Content you make available via any of the Websites or Services by any means, including without limitation through a posting, a link, reference to Content, or otherwise.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Copyright Complaints</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; respects the intellectual property rights of others, and we prohibit users of our Websites and Services from submitting, uploading, posting or otherwise transmitting any materials that violate another person’s intellectual property rights.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Termination of this Agreement</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>These Terms and any Additional Terms will continue to apply until terminated by either you or &lt;strong&gt;Social Lab&lt;/strong&gt; as set out below. Your right to access and use the Websites and Services terminates automatically upon your breach of any of these Terms or Additional Terms that may apply to any of the Websites or Services.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; may, at any time: (a) modify, suspend or terminate the operation of or access to any of the Websites or Services, or any portion of the Websites or Services, for any reason; (b) modify or change the Websites or Services, or any portion of the Websites or Services, and any Master Terms, Additional Terms and other policies governing the use of the Websites or Services, for any reason; (c) interrupt the operation of the Websites or Services, or any portion of the Websites or Services, for any reason, all as &lt;strong&gt;Social Lab&lt;/strong&gt; deems appropriate in its sole discretion.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Your access to, and use of, the Websites or Services may be terminated by you or by &lt;strong&gt;Social Lab&lt;/strong&gt; at any time and for any reason. &lt;strong&gt;Social Lab&lt;/strong&gt; will use reasonable efforts to notify you in advance about any material modification, suspension or termination by &lt;strong&gt;Social Lab&lt;/strong&gt; that is not caused by your breach of the Terms.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>The disclaimer of warranties, the limitation of liability and the jurisdiction and applicable law provisions shall survive any termination. The license grants mentioned herein shall continue in effect subject to the terms of the applicable license. Your warranties and indemnification obligations shall survive any termination for one year.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Miscellaneous Terms</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>These Master Terms and any Additional Terms are governed by and construed by the laws of Spain, exclusive of its choice of law rules. The parties agree that any disputes or proceedings between &lt;strong&gt;Social Lab&lt;/strong&gt; and you concerning these Master Terms, any Additional Terms, and/or any of the Websites or Services shall be brought in a court of competent jurisdiction sitting in Spain, and hereby consent to the personal jurisdiction and venue of such court. Either party’s failure to insist on or enforce strict performance of any of the Terms shall not be construed as a waiver of any provision or right. If any term or part of the Terms is held to be invalid or unenforceable by any law or regulation or final determination of a competent court or tribunal, that provision will be deemed severable and will not affect the validity and enforceability of any remaining provisions. The parties agree that no joint venture, partnership, employment, or agency relationship exists between you and &lt;strong&gt;Social Lab&lt;/strong&gt; as a result of these Terms, any Additional Terms, or your use of any of the Websites or Services. These Terms and any applicable Additional Terms constitute the entire agreement between you and &lt;strong&gt;Social Lab&lt;/strong&gt; relating to this subject matter and supersede all prior, contemporaneous and future communications (with the exception of future amendments to the Terms as made available by &lt;strong&gt;Social Lab&lt;/strong&gt; from time to time) between you and &lt;strong&gt;Social Lab&lt;/strong&gt;. A printed version of the Terms and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based on or relating to the Terms to the same extent and subject to the same conditions as other business documents and records originally generating and maintained in printed form.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Processing scheduled tasks</source>
+        <target>Geplante Aufgaben durchführen</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>less than 5 seconds</source>
+        <target>weniger als 5 Sekunden</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>less than 10 seconds</source>
+        <target>weniger als 10 Sekunden</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>less than 20 seconds</source>
+        <target>weniger als 20 Sekunden</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>half a minute</source>
+        <target>eine halbe Minute</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>less than a minute</source>
+        <target>weniger als eine Minute</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>1 minute</source>
+        <target>1 Minute</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>%minutes% minutes</source>
+        <target>%minutes% Minuten</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>about 1 hour</source>
+        <target>etwa eine Stunde</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>about %hours% hours</source>
+        <target>etwa %hours% Stunden</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>1 day</source>
+        <target>ein Tag</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>%days% days</source>
+        <target>%days% Tage</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>about 1 month</source>
+        <target>etwa ein Monat</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>%months% months</source>
+        <target>%months% Monate</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>about 1 year</source>
+        <target>etwa ein Jahr</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>over %years% years</source>
+        <target>über %years% Jahre</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>First name</source>
+        <target>Vorname</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Last name</source>
+        <target>Nachname</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Photo</source>
+        <target>Foto</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Location town</source>
+        <target>Ort</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Location country</source>
+        <target>Land</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Academic promotion</source>
+        <target>Akademische Promotion</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Description</source>
+        <target>Beschreibung</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Picture</source>
+        <target>Foto</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Username</source>
+        <target>Nutzername</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Password</source>
+        <target>Passwort</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Password confirmation</source>
+        <target>Passwort wiederholen</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Remember</source>
+        <target>Erinnern</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. It is a &lt;a href="#socialeng"&gt;social engineering&lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt;.</source>
+        <target>&lt;strong&gt;Social Lab&lt;/strong&gt; &lt;strong&gt;NO&lt;/strong&gt; ist ein soziales Netzwerk. Es ist ein &lt;a href="#socialeng"&gt;social engineering&lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt;.</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
+        <target>&lt;strong&gt;Social Lab&lt;/strong&gt; ahmt die Funktionalitäten eines sozialen Netzwerks nach (Freundschaftsanfragen, Statusupdates, Privatnachrichten, Fotos, Seiten, etc.) para proporcionar un &amp;quot;&lt;em&gt;sandbox social&lt;/em&gt;&amp;quot;, un entorno seguro en el que experimentar sobre las relaciones sociales.</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>The purpose of the game is to &lt;strong&gt;learn&lt;/strong&gt; some of the techniques used by social hackers in order to &lt;strong&gt;prevent&lt;/strong&gt; this kind of attacks in real social networks.</source>
+        <target>Der Zweck des Spiels ist es einige der Tricks zu &lt;strong&gt;lernen&lt;/strong&gt;, die von sozialen Hackern verwendet werden und diese Art von Angriffen in Sozialen Netzen zu &lt;strong&gt;verhindern&lt;/strong&gt;.</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>How to play</source>
+        <target>Spielablauf</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Create an account</source>
+        <target>Ein Konto erstellen</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Wait for a message from the system explaining what is your next challenge as a social hacker ;)</source>
+        <target>Warte auf eine Nachricht vom System, die beschreibt was Deine nächste Aufgabe als ein sozialer Hacker ist ;)</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Important tips:</source>
+        <target>Wichtige Tipps:</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Every challenge will be controlled by an &lt;strong&gt;automated&lt;/strong&gt; profile (no real people privacy is invaded playing &lt;strong&gt;Social Lab&lt;/strong&gt;).</source>
+        <target>Jede Aufgabe wird kontrolliert von einem &lt;strong&gt;automatischen&lt;/strong&gt; Profil (keine Privatsphäre echter Personen wird durch das Spielen von &lt;strong&gt;Social Lab&lt;/strong&gt; verletzt).</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>These profiles must be convinced to become your friends using your social engineering skills.</source>
+        <target>Diese Profile müssen durch Deine Fähigkeiten im social engineering überzeugt werden Deine Freundschaftsanfragen anzunehmen.</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Their responses are automatic but &lt;strong&gt;not immediate&lt;/strong&gt;. Sometimes they need a few minutes to realize that you look friendly enough to become their friend ;-)</source>
+        <target>Ihre Antworten erfolgen automatisch, aber &lt;strong&gt;nicht sofort&lt;/strong&gt;. Manchmal brauchen sie ein paar Minuten um einzusehen, dass Du freundlich genug aussiehst um ihr Freund zu werden ;-)</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>What is Social Engineering?</source>
+        <target>Was ist Social Engineering?</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>&lt;a href="http://en.wikipedia.org/wiki/Social_engineering_%28security%29"&gt;Social engineering&lt;/a&gt;, in the context of security, is understood to mean the art of manipulating people into performing actions or divulging confidential information. While it is similar to a confidence trick or simple fraud, it is typically trickery or deception for the purpose of information gathering, fraud, or computer system access; in most cases the attacker never comes face-to-face with the victims.</source>
+        <target>&lt;a href="http://http://de.wikipedia.org/wiki/Social_Engineering_%28Sicherheit%29"&gt;Social Engineering&lt;/a&gt;, nennt man zwischenmenschliche Beeinflussungen mit dem Ziel, bei Personen bestimmte Verhalten hervorzurufen, sie zum Beispiel zur Preisgabe von vertraulichen Informationen, zum Kauf eines Produktes oder zur Freigabe von Finanzmitteln zu bewegen. Social Engineers spionieren das persönliche Umfeld ihres Opfers aus, täuschen Identitäten vor oder nutzen Verhaltensweisen wie Autoritätshörigkeit aus, um geheime Informationen oder unbezahlte Dienstleistungen zu erlangen. Meist dient Social Engineering dem Eindringen in ein fremdes Computersystem, um vertrauliche Daten einzusehen.</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Social engineering as an act of psychological manipulation had previously been associated with the social sciences, but its usage has caught on among computer professionals.</source>
+        <target>Social engineering als ein Akt psychologischer Manipulation wurde ursprünglich mit den Sozialwissenschaften assoziiert, aber seine Nutzung hat unter Informatikern Verbreitung gefunden.</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>What is a wargame?</source>
+        <target>Was ist ein Wargame?</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>A &lt;a href="http://en.wikipedia.org/wiki/Wargame_%28hacking%29"&gt;wargame in hacking&lt;/a&gt; is a security challenge in which one must exploit a vulnerability in a system or application or gain access to a system.</source>
+        <target>Un &lt;a href="http://en.wikipedia.org/wiki/Wargame_%28hacking%29"&gt;wargame&lt;/a&gt; ist eine Sicherheitsaufgabe, bei der man eine Verletzlichkeit in einem informatischen System oder einer Anwendung ausnutzen oder Zugang zu einem System erlangen muss.</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>About Social Lab</source>
+        <target>Über Social Lab</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Developed by:</source>
+        <target>Entwickelt von:</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>main developer (%url% final version)</source>
+        <target>Hauptentwickler (Endgültige Version unter %url%)</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>testing developer (%url% testing version)</source>
+        <target>Testentwickler (Testversion unter %url%)</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Designed by:</source>
+        <target>Entworfen von:</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; code is released under &lt;a href="http://www.gnu.org/licenses/agpl-3.0.html"&gt;a free software license&lt;/a&gt;</source>
+        <target>Der Code von &lt;strong&gt;Social Lab&lt;/strong&gt; wird bereitgestellt unter &lt;a href="http://www.gnu.org/licenses/agpl-3.0.html"&gt;einer freien Softwarelizenz&lt;/a&gt;</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>Images of fake profiles provided by &lt;strong&gt;Social Lab&lt;/strong&gt; are property of &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt; and released under a &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; license</source>
+        <target>Bilder falscher Profile in &lt;strong&gt;Social Lab&lt;/strong&gt; sind Eigentum von &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt; und werden bereitgestellt unter einer &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; Lizenz.</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt;'s %tos% are partially based on &lt;a href="http://creativecommons.org/terms"&gt;Creative Commons Terms of Use&lt;/a&gt;</source>
+        <target>Die %tos% von &lt;strong&gt;Social Lab&lt;/strong&gt; basieren teilweise auf den &lt;a href="http://creativecommons.org/terms"&gt;Bedingungen des Creative Commons&lt;/a&gt;.</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>License</source>
+        <target>Lizenz</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>a social engineering wargame</source>
+        <target>ein Social Engineering Wargame</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>This program is free software: you can redistribute it and/or modify
+        it under the terms of the &lt;strong&gt;GNU Affero General Public License&lt;/strong&gt; as published by
+        the Free Software Foundation, either &lt;strong&gt;version 3&lt;/strong&gt; of the License, or
+        (at your option) any later version.</source>
+        <target>Dieses Programm ist freie Software: Du darfst sie weiterverbreiten und/oder modifizieren
+        unter den Bedingungen der &lt;strong&gt;GNU Affero General Public Lizenz&lt;/strong&gt; wie publiziert von der Free Software Foundation, jede &lt;strong&gt;Version 3&lt;/strong&gt; der Lizenz, oder
+        (auf Deinen Wunsch) jede spätere Version.</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>This program is distributed in the hope that it will be useful,
+        but &lt;strong&gt;WITHOUT ANY WARRANTY&lt;/strong&gt;; without even the implied warranty of
+        &lt;strong&gt;MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE&lt;/strong&gt;. See the
+        GNU Affero General Public License for more details.</source>
+        <target>Dieses Programm wird mit der Hoffnung verbreitet, dass es nützlich sein möge,
+        aber &lt;strong&gt;OHNE JEDE GEWÄHR&lt;/strong&gt;; auch ohne die implizierte Garantie der
+        &lt;strong&gt;HANDELBARKEIT oder FITNESS FÜR EINEN BESTIMMTEN ZWECK&lt;/strong&gt;. Siehe die
+        GNU Affero General Public Lizenz zu Details.</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>You should have received a copy of the Affero GNU General Public License
+        along with this program.  If not, see &lt;a href="http://www.gnu.org/licenses/agpl-3.0.html"&gt;http://www.gnu.org/licenses/agpl-3.0.html&lt;/a&gt;.</source>
+        <target>Do solltest eine Kopie der Affero GNU General Public Lizenz erhalten haben zusammen mit diesem Programm.  Falls nicht, dann siehe &lt;a href="http://www.gnu.org/licenses/agpl-3.0.html"&gt;http://www.gnu.org/licenses/agpl-3.0.html&lt;/a&gt;.</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Welcome to Social Lab!</source>
+        <target>Willkommen bei Social Lab!</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>&lt;strong&gt;Social Lab&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. If you want to know what it is</source>
+        <target>&lt;strong&gt;Social Lab&lt;/strong&gt; ist &lt;strong&gt;KEIN&lt;/strong&gt; soziales Netzwerk. Wenn Du wissen willst was es ist</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>click here</source>
+        <target>klicke hier</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Tag</source>
+        <target>Markieren</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Edit page</source>
+        <target>Seite bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>%title% fan page</source>
+        <target>Fan-Seite von %title%</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Fans</source>
+        <target>Fans</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>This page has no fans ;-(</source>
+        <target>Diese Seite hat keine Fans ;-(</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>New page</source>
+        <target>Neue Seite</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>remove the current file</source>
+        <target>Diese Datei entfernen</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Graduation year</source>
+        <target>Abschlussjahr</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Required.</source>
+        <target>Obligatorisch.</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>An object with the same "%column%" already exist.</source>
+        <target>Es existiert bereits ein Konto mit diesem Nutzernamen.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
