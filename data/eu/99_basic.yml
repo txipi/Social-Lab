@@ -907,7 +907,7 @@ Automsg:
   Automsg_15:
     text: 'Hacking soziala benetan menperatzen duzu!!! <br/><br/>Baina gogoan izan, botere handiak ardura handia eskatzen du ;) <br/><br/>Eskerrik asko joko honetan parte hartzeagatik!<br/><br/>Mesedez, edozein zalantza, iruzkin edo iradokizun izanez gero, ez ezazu zalantzarik izan: jar zaitez gurekin harremanetan.'
   Automsg_16:
-    text: feli
+    text: zori
 Message:
   Message_1:
     from_id: sfGuardUserProfile_3
