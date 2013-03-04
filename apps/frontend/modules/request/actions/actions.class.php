@@ -43,7 +43,7 @@ class requestActions extends sfActions
   {
     $this->forward404Unless($Request = RequestPeer::retrieveByPk($request->getParameter('id')), sprintf('Object Message does not exist (%s).', $request->getParameter('id')));
 
-    if ($Request->getFromId() == $this->getUser()->getProfile()->getId())
+    if ($Request->getToId() == $this->getUser()->getProfile()->getId())
     {
       $message = new Message();
       $message->setFromId($Request->getToId());
