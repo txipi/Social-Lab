@@ -3,6 +3,8 @@
 
 # default values
 all:
+  signup_enabled: true
+
   sf_guard_plugin:
     success_signin_url:      @homepage
     success_signout_url:     default/social
@@ -46,6 +48,4 @@ all:
   command_checkfotwof: 14
   command_checkfriendwall: 15
 
-
-
-
+  cron_password: socialcron
