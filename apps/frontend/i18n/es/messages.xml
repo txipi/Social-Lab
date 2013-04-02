@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2012-11-07T18:05:20Z" product-name="messages">
+  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2013-04-02T16:59:41Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="1">
@@ -872,11 +872,19 @@
       </trans-unit>
       <trans-unit id="214">
         <source>Required.</source>
-        <target>Obligatorio</target>
+        <target>Obligatorio.</target>
       </trans-unit>
       <trans-unit id="215">
         <source>An object with the same "%column%" already exist.</source>
         <target>Ya existe una cuenta con ese nombre de usuario.</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>An object with the same "username" already exist.</source>
+        <target>Ya existe una cuenta con ese nombre de usuario.</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>I accept the &lt;a href="/default/tos"&gt;Terms of Use&lt;/a&gt; of this site</source>
+        <target>Acepto las &lt;a href="/default/tos"&gt;Condiciones de Uso&lt;/a&gt; de este sitio</target>
       </trans-unit>
     </body>
   </file>

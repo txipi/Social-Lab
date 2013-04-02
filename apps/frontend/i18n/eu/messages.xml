@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="EN" target-language="eu" datatype="plaintext" original="messages" date="2012-11-13T11:52:20Z" product-name="messages">
+  <file source-language="EN" target-language="eu" datatype="plaintext" original="messages" date="2013-04-02T17:00:52Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="1">
@@ -703,7 +703,7 @@
       <trans-unit id="175">
         <source>&lt;strong&gt;Social Lab&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. It is a &lt;a href="#socialeng"&gt;social engineering&lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt;.</source>
         <target>&lt;strong&gt;Social Lab&lt;/strong&gt; &lt;strong&gt;EZ&lt;/strong&gt; da benetazko sare soziala, baizik eta &lt;a href="#socialeng"&gt;ingeniaritza sozialen inguruko &lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt; bat. </target>
-    </trans-unit>
+      </trans-unit>
       <trans-unit id="176">
         <source>&lt;strong&gt;Social Lab&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
         <target>&lt;strong&gt;Social Lab&lt;/strong&gt;-ek egiazko sare sozial baten oinarrizko ezaugarriak erabiltzen ditu (adiskidetasun eskaerak, egoeraren eguneraketak, mezu pribatuak, argazkiak, orriak, etab.) probak egiteko kutxa seguru bat eskainiz (&amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot; deritzona), non sare sozialetan gertatzen diren erlazioak azter daitezkeen.</target>
@@ -856,7 +856,7 @@
       </trans-unit>
       <trans-unit id="210">
         <source>This page has no fans ;-(</source>
-	<target>Orri honek ez du inolako zalerik ;-(</target>
+        <target>Orri honek ez du inolako zalerik ;-(</target>
       </trans-unit>
       <trans-unit id="211">
         <source>New page</source>
@@ -877,6 +877,14 @@
       <trans-unit id="215">
         <source>An object with the same "%column%" already exist.</source>
         <target>Badago beste erabiltzaile bat izen horrekin.</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>An object with the same "username" already exist.</source>
+        <target>Badago beste erabiltzaile bat izen horrekin.</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>I accept the &lt;a href="/default/tos"&gt;Terms of Use&lt;/a&gt; of this site</source>
+        <target>&lt;a href="/default/tos"&gt;Erabiltzeko Baldintzak&lt;/a&gt; onartzen ditut.</target>
       </trans-unit>
     </body>
   </file>

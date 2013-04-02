@@ -53,8 +53,12 @@ class defaultActions extends sfActions
    * Scheduler, process pending tasks of Social Lab's bots
    *
    */
-  public function executeScheduler()
+  public function executeScheduler(sfWebRequest $request)
   {
+    if ($request->getParameter('password') != sfConfig::get('app_cron_password'))
+    {
+      $this->redirect('/');
+    }
     $log = "Starting scheduler...\n";
     $verbose = sfConfig::get('app_scheduler_logs'); // Set it to false for non-verbose logs
     $criteria = new Criteria();

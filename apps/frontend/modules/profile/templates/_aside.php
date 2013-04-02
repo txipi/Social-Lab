@@ -27,8 +27,10 @@
       </ul>
 <?php else: ?>
       <ul>
-        <li><a href="<?php echo url_for('/signin') ?>" class="button aside icon lock"><?php echo __('Sign in') ?></a></li>
-        <li><a href="<?php echo url_for('/signup') ?>" class="button aside icon key"><?php echo __('Sign up') ?></a></li>
+        <li><a href="<?php echo url_for('@signin') ?>" class="button aside icon lock"><?php echo __('Sign in') ?></a></li>
+<?php if (sfConfig::get('app_signup_enabled')): ?> 
+        <li><a href="<?php echo url_for('@signup') ?>" class="button aside icon key"><?php echo __('Sign up') ?></a></li>
+<?php endif ?>
         <li><a href="<?php echo url_for('default/social') ?>" class="button aside icon home"><?php echo __('What is Social Lab?') ?></a></li>
         <li><a href="<?php echo url_for('default/tos') ?>" class="button aside icon settings"><?php echo __('Terms of Use') ?></a></li>
         <li><a href="<?php echo url_for('default/about') ?>" class="button aside icon mail"><?php echo __('About') ?></a></li>

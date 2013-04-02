@@ -25,6 +25,10 @@ class RegisterForm extends sfGuardUserForm
     $this->validatorSchema['password_confirmation'] = clone $this->validatorSchema['password'];
  
     $this->widgetSchema->moveField('password_confirmation', 'after', 'password');
+
+    $this->widgetSchema['tos'] = new sfWidgetFormInputCheckbox();
+    $this->validatorSchema['tos'] = new sfValidatorBoolean(array('required'=>true)); 
+    $this->widgetSchema->setLabel('tos', 'I accept the <a href="/default/tos">Terms of Use</a> of this site');
  
     $this->mergePostValidator(new sfValidatorSchemaCompare('password', sfValidatorSchemaCompare::EQUAL, 'password_confirmation', array(), array('invalid' => 'The two passwords must be the same.')));
   }

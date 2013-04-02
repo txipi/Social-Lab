@@ -15,7 +15,9 @@
         <li><a href="<?php echo url_for('@signout') ?>"><?php echo __('Sign out') ?></a></li>
 <?php else: ?>
         <li><a href="<?php echo url_for('@signin') ?>"><?php echo __('Sign in') ?></a></li>
+<?php if (sfConfig::get('app_signup_enabled')): ?> 
         <li><a href="<?php echo url_for('@signup') ?>"><?php echo __('Sign up') ?></a></li>
+<?php endif ?>
 <?php endif ?>
       </ul>
     </div>

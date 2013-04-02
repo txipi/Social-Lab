@@ -19,6 +19,11 @@
       <?php echo $form['password_confirmation'] ?>
       <?php echo $form['password_confirmation']->renderError() ?>
     </div>
+    <div>
+      <?php echo $form['tos'] ?> 
+      <?php echo $form['tos']->renderLabel() ?>
+      <?php echo $form['tos']->renderError() ?>
+    </div>
     <div class="float_r"><button type="submit" class="button confirm icon key"><?php echo __('Sign up') ?></button></div>
     <div class="cleaner"></div>
   </div>

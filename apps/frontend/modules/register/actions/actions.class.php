@@ -17,7 +17,7 @@ class registerActions extends sfActions
   */
   public function executeIndex(sfWebRequest $request)
   {
-    if($this->getUser()->isAuthenticated())
+    if(!sfConfig::get('app_signup_enabled') || $this->getUser()->isAuthenticated())
     {
       $this->redirect('profile/wall');
     } 
