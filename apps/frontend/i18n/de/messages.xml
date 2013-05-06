@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2013-04-02T17:00:57Z" product-name="messages">
+  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2013-05-07T00:41:10Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="1">
@@ -883,6 +883,35 @@
       <trans-unit id="217">
         <source>I accept the &lt;a href="/default/tos"&gt;Terms of Use&lt;/a&gt; of this site</source>
         <target>Ich akzeptiere die &lt;a href="/default/tos"&gt;Nutzungsbedingungen&lt;/a&gt; dieser Website</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>What is Social Lab privacy wargame?</source>
+        <target>Was ist Social Lab privacy wargame?</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. It is a &lt;a href="#socialeng"&gt;social engineering&lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt;.</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ist &lt;strong&gt;KEIN&lt;/strong&gt; soziales Netzwerk. Wenn Du wissen willst was es ist</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ahmt die Funktionalitäten eines sozialen Netzwerks nach (Freundschaftsanfragen, Statusupdates, Privatnachrichten, Fotos, Seiten, etc.) para proporcionar un &amp;quot;&lt;em&gt;sandbox social&lt;/em&gt;&amp;quot;, un entorno seguro en el que experimentar sobre las relaciones sociales.</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>About Social Lab privacy wargame</source>
+        <target>Über Social Lab privacy wargame</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Images of fake profiles provided by &lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; are property of &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt; and released under a &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; license</source>
+        <target>Bilder falscher Profile in &lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; sind Eigentum von &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt; und werden bereitgestellt unter einer &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; Lizenz.</target>
+
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Welcome to Social Lab privacy wargame!</source>
+        <target>Willkommen bei Social Lab privacy wargame!</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. If you want to know what it is</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ist &lt;strong&gt;KEIN&lt;/strong&gt; soziales Netzwerk. Wenn Du wissen willst was es ist</target>
       </trans-unit>
     </body>
   </file>
