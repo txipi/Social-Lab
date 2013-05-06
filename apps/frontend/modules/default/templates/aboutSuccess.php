@@ -1,6 +1,6 @@
     <?php include_partial('profile/aside') ?>
     <section id="content">
-      <h2><?php echo __('About Social Lab') ?></h2>
+      <h2><?php echo __('About Social Lab privacy wargame') ?></h2>
       <p><?php echo __('Developed by:') ?></p>
       <ul class="about">
        <li><strong>Pablo Garaizar</strong>, <?php echo __('main developer (%url% final version)', array('%url%' => '<a href="http://http://www.symfony-project.org/">Symfony</a>')) ?>.</li>
@@ -15,15 +15,15 @@
        <?php echo __('<strong>Social Lab</strong> code is released under <a href="http://www.gnu.org/licenses/agpl-3.0.html">a free software license</a>') ?> (<a href="http://www.gnu.org/licenses/agpl-3.0.html">AGPL version 3</a>).
       </p>
       <p>
-       <?php echo __('Images of fake profiles provided by <strong>Social Lab</strong> are property of <a href="http://imagebase.davidniblack.com/">David Niblack</a> and released under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license') ?>.
+       <?php echo __('Images of fake profiles provided by <strong>Social Lab privacy wargame</strong> are property of <a href="http://imagebase.davidniblack.com/">David Niblack</a> and released under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license') ?>.
       </p>
       <p>
        <?php echo __('<strong>Social Lab</strong>\'s %tos% are partially based on <a href="http://creativecommons.org/terms">Creative Commons Terms of Use</a>', array('%tos%' => link_to(__('Terms of Use'), 'default/tos'))) ?>.
       </p>
       <h2><?php echo __('License') ?></h2>
       <p>
-       <strong>Social Lab</strong>, <?php echo __('a social engineering wargame') ?><br/>
-       Copyright &copy; 2012, Pablo Garaizar
+       <strong>Social Lab privacy wargame</strong>, <?php echo __('a social engineering wargame') ?><br/>
+       Copyright &copy; 2013, Pablo Garaizar
       </p>
       <p>
         <?php echo __('This program is free software: you can redistribute it and/or modify

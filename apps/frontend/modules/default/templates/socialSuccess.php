@@ -1,11 +1,11 @@
     <?php include_partial('profile/aside') ?>
     <section id="content">
-      <h2><?php echo __('What is Social Lab?') ?></h2>
+      <h2><?php echo __('What is Social Lab privacy wargame?') ?></h2>
       <p>
-       <?php echo __('<strong>Social Lab</strong> is <strong>NOT</strong> a real social network. It is a <a href="#socialeng">social engineering</a> <a href="#wargame">wargame</a>.') ?>
+       <?php echo __('<strong>Social Lab privacy wargame</strong> is <strong>NOT</strong> a real social network. It is a <a href="#socialeng">social engineering</a> <a href="#wargame">wargame</a>.') ?>
       </p>
       <p>
-       <?php echo __('<strong>Social Lab</strong> mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &quot;<em>social sandbox</em>&quot;.') ?>
+       <?php echo __('<strong>Social Lab privacy wargame</strong> mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &quot;<em>social sandbox</em>&quot;.') ?>
       </p>
       <p>
 	<?php echo __('The purpose of the game is to <strong>learn</strong> some of the techniques used by social hackers in order to <strong>prevent</strong> this kind of attacks in real social networks.') ?>

@@ -1,7 +1,7 @@
     <?php include_partial('profile/aside') ?>
     <section id="content">
-      <h2><?php echo __('Welcome to Social Lab!') ?></h2>
-      <p><?php echo __('<strong>Social Lab</strong> is <strong>NOT</strong> a real social network. If you want to know what it is') ?>, <?php echo link_to(__('click here'), 'default/social') ?> ;)</p>
+      <h2><?php echo __('Welcome to Social Lab privacy wargame!') ?></h2>
+      <p><?php echo __('<strong>Social Lab privacy wargame</strong> is <strong>NOT</strong> a real social network. If you want to know what it is') ?>, <?php echo link_to(__('click here'), 'default/social') ?> ;)</p>
       <h3><?php echo __('Sign in') ?></h3>
   <form action="<?php echo url_for('@sf_guard_signin') ?>" method="post">
   <?php echo $form['_csrf_token']?>
