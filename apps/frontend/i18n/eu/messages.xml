@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="EN" target-language="eu" datatype="plaintext" original="messages" date="2013-05-07T00:41:14Z" product-name="messages">
+  <file source-language="EN" target-language="eu" datatype="plaintext" original="messages" date="2013-05-07T23:41:19Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="1">
@@ -170,7 +170,7 @@
       </trans-unit>
       <trans-unit id="42">
         <source>Privacy settings</source>
-        <target>Pribatutasun Hobespenak</target>
+        <target>Pribatutasun hobespenak</target>
       </trans-unit>
       <trans-unit id="43">
         <source>Save changes</source>
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="44">
         <source>Edit profile</source>
-        <target>Profila Editatu</target>
+        <target>Profila editatu</target>
       </trans-unit>
       <trans-unit id="45">
         <source>Messages</source>
@@ -913,6 +913,14 @@
       <trans-unit id="224">
         <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. If you want to know what it is</source>
         <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; &lt;strong&gt;EZ&lt;/strong&gt; da benetazko sare sozial bat. Jakin nahi baduzu zehazki zer den</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Allow my data to be used for research purposes</source>
+        <target>Baimendu nire datuak ikerketetarako erabiltzea</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Research settings</source>
+        <target>Ikerketarako hobespenak</target>
       </trans-unit>
     </body>
   </file>

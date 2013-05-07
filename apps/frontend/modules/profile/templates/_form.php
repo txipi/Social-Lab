@@ -73,6 +73,13 @@
         <div class="cleaner"></div>
       </div>
       <br />
+      <h3><?php echo __('Research settings') ?></h3>
+      <div class="fbbluebox">
+        <div class="float_l"><?php echo $form['tos_accept']->renderLabel() ?> <?php echo $form['tos_accept']->renderError() ?></div>
+        <div class="float_r select-big"><?php echo $form['tos_accept'] ?></div>
+        <div class="cleaner"></div>
+      </div>
+      <br />
       <div class="float_r"><button type="submit" class="button confirm icon key"><?php echo __('Save changes') ?></button></div>
       <div class="cleaner"></div>
       <br />

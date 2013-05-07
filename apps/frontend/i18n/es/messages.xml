@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2013-05-07T00:40:49Z" product-name="messages">
+  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2013-05-07T23:41:11Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="1">
@@ -913,6 +913,14 @@
       <trans-unit id="224">
         <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. If you want to know what it is</source>
         <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; &lt;strong&gt;NO&lt;/strong&gt; es una red social real. Si quieres saber lo quie realmente es</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Allow my data to be used for research purposes</source>
+        <target>Permitir que mis datos sean usados con propósitos de investigación</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Research settings</source>
+        <target>Configuración de investigación</target>
       </trans-unit>
     </body>
   </file>

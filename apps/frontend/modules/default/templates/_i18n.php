@@ -30,6 +30,7 @@
 <?php __('Academic center') ?>
 <?php __('Academic promotion') ?>
 <?php __('Graduation year') ?>
+<?php __('Allow my data to be used for research purposes') ?>
 <?php __('Title') ?>
 <?php __('Description') ?>
 <?php __('Picture') ?>
