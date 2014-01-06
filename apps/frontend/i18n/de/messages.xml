@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2013-04-02T17:00:57Z" product-name="messages">
+  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2013-05-07T23:41:22Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="1">
@@ -70,7 +70,7 @@
       </trans-unit>
       <trans-unit id="17">
         <source>There are &lt;strong&gt;no&lt;/strong&gt; incoming friendship requests.</source>
-        <target>Du hast &lt;strong&gt;No&lt;/strong&gt; Freundschaftsanfragen.</target>
+        <target>Du hast &lt;strong&gt;0&lt;/strong&gt; Freundschaftsanfragen.</target>
       </trans-unit>
       <trans-unit id="18">
         <source>Sent</source>
@@ -710,7 +710,7 @@
       </trans-unit>
       <trans-unit id="177">
         <source>The purpose of the game is to &lt;strong&gt;learn&lt;/strong&gt; some of the techniques used by social hackers in order to &lt;strong&gt;prevent&lt;/strong&gt; this kind of attacks in real social networks.</source>
-        <target>Der Zweck des Spiels ist es einige der Tricks zu &lt;strong&gt;lernen&lt;/strong&gt;, die von sozialen Hackern verwendet werden und diese Art von Angriffen in Sozialen Netzen zu &lt;strong&gt;verhindern&lt;/strong&gt;.</target>
+        <target>Der Zweck des Spiels ist es einige der Tricks zu &lt;strong&gt;durchschauen&lt;/strong&gt;, die von sozialen Hackern verwendet werden und diese Art von Angriffen in Sozialen Netzen zu &lt;strong&gt;verhindern&lt;/strong&gt;.</target>
       </trans-unit>
       <trans-unit id="178">
         <source>How to play</source>
@@ -734,7 +734,7 @@
       </trans-unit>
       <trans-unit id="183">
         <source>These profiles must be convinced to become your friends using your social engineering skills.</source>
-        <target>Diese Profile müssen durch Deine Fähigkeiten im social engineering überzeugt werden Deine Freundschaftsanfragen anzunehmen.</target>
+        <target>Diese automatischen Spieler müssen durch Deine Fähigkeiten im social engineering überzeugt werden Deine Freundschaftsanfragen anzunehmen.</target>
       </trans-unit>
       <trans-unit id="184">
         <source>Their responses are automatic but &lt;strong&gt;not immediate&lt;/strong&gt;. Sometimes they need a few minutes to realize that you look friendly enough to become their friend ;-)</source>
@@ -746,19 +746,19 @@
       </trans-unit>
       <trans-unit id="186">
         <source>&lt;a href="http://en.wikipedia.org/wiki/Social_engineering_%28security%29"&gt;Social engineering&lt;/a&gt;, in the context of security, is understood to mean the art of manipulating people into performing actions or divulging confidential information. While it is similar to a confidence trick or simple fraud, it is typically trickery or deception for the purpose of information gathering, fraud, or computer system access; in most cases the attacker never comes face-to-face with the victims.</source>
-        <target>&lt;a href="http://http://de.wikipedia.org/wiki/Social_Engineering_%28Sicherheit%29"&gt;Social Engineering&lt;/a&gt;, nennt man zwischenmenschliche Beeinflussungen mit dem Ziel, bei Personen bestimmte Verhalten hervorzurufen, sie zum Beispiel zur Preisgabe von vertraulichen Informationen, zum Kauf eines Produktes oder zur Freigabe von Finanzmitteln zu bewegen. Social Engineers spionieren das persönliche Umfeld ihres Opfers aus, täuschen Identitäten vor oder nutzen Verhaltensweisen wie Autoritätshörigkeit aus, um geheime Informationen oder unbezahlte Dienstleistungen zu erlangen. Meist dient Social Engineering dem Eindringen in ein fremdes Computersystem, um vertrauliche Daten einzusehen.</target>
+        <target>&lt;a href="http://http://de.wikipedia.org/wiki/Social_Engineering_%28Sicherheit%29"&gt;Social Engineering&lt;/a&gt; nennt man zwischenmenschliche Beeinflussungen mit dem Ziel, bei Personen bestimmte Verhaltensweisen hervorzurufen, sie zum Beispiel zur Preisgabe von vertraulichen Informationen, zum Kauf eines Produktes oder zur Freigabe von Finanzmitteln zu bewegen. Social Engineers spionieren das persönliche Umfeld ihres Opfers aus, täuschen Identitäten vor oder nutzen Verhaltensweisen wie Autoritätshörigkeit aus, um geheime Informationen oder unbezahlte Dienstleistungen zu erlangen. Meist dient Social Engineering dem Eindringen in ein fremdes Computersystem, um vertrauliche Daten einzusehen.</target>
       </trans-unit>
       <trans-unit id="187">
         <source>Social engineering as an act of psychological manipulation had previously been associated with the social sciences, but its usage has caught on among computer professionals.</source>
-        <target>Social engineering als ein Akt psychologischer Manipulation wurde ursprünglich mit den Sozialwissenschaften assoziiert, aber seine Nutzung hat unter Informatikern Verbreitung gefunden.</target>
+        <target>Social Engineering als ein Akt psychologischer Manipulation und wurde ursprünglich mit den Sozialwissenschaften assoziiert, aber seine Nutzung hat unter Informatikern Verbreitung gefunden.</target>
       </trans-unit>
       <trans-unit id="188">
         <source>What is a wargame?</source>
-        <target>Was ist ein Wargame?</target>
+        <target>Was ist ein Sozialmedienspiel?</target>
       </trans-unit>
       <trans-unit id="189">
         <source>A &lt;a href="http://en.wikipedia.org/wiki/Wargame_%28hacking%29"&gt;wargame in hacking&lt;/a&gt; is a security challenge in which one must exploit a vulnerability in a system or application or gain access to a system.</source>
-        <target>Un &lt;a href="http://en.wikipedia.org/wiki/Wargame_%28hacking%29"&gt;wargame&lt;/a&gt; ist eine Sicherheitsaufgabe, bei der man eine Verletzlichkeit in einem informatischen System oder einer Anwendung ausnutzen oder Zugang zu einem System erlangen muss.</target>
+        <target>Ein &lt;a href="http://en.wikipedia.org/wiki/Wargame_%28hacking%29"&gt;Sozialmedienspiel&lt;/a&gt; ist eine Serie von Aufgaben in einem Sozialen Medium, bei der man eine Verletzlichkeit in einem informatischen System oder einer Anwendung ausnutzen oder Zugang zu einem System erlangen muss.</target>
       </trans-unit>
       <trans-unit id="190">
         <source>About Social Lab</source>
@@ -883,6 +883,42 @@
       <trans-unit id="217">
         <source>I accept the &lt;a href="/default/tos"&gt;Terms of Use&lt;/a&gt; of this site</source>
         <target>Ich akzeptiere die &lt;a href="/default/tos"&gt;Nutzungsbedingungen&lt;/a&gt; dieser Website</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>What is Social Lab privacy wargame?</source>
+        <target>Was ist das Social Lab Sozialmedienspiel?</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. It is a &lt;a href="#socialeng"&gt;social engineering&lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt;.</source>
+        <target>&lt;strong&gt;Social Lab Sozialmedienspiel&lt;/strong&gt; ist &lt;strong&gt;KEIN&lt;/strong&gt; soziales Netzwerk.</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ahmt die Funktionalitäten eines sozialen Netzwerks nach (Freundschaftsanfragen, Statusupdates, Privatnachrichten, Fotos, Seiten, etc.).</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>About Social Lab privacy wargame</source>
+        <target>Über Social Lab privacy wargame</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Images of fake profiles provided by &lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; are property of &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt; and released under a &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; license</source>
+        <target>Bilder falscher Profile in &lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; sind Eigentum von &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt; und werden bereitgestellt unter einer &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; Lizenz.</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Welcome to Social Lab privacy wargame!</source>
+        <target>Willkommen bei Social Lab privacy wargame!</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. If you want to know what it is</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ist &lt;strong&gt;KEIN&lt;/strong&gt; soziales Netzwerk. Wenn Du wissen willst was es ist</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Allow my data to be used for research purposes</source>
+        <target>Erlaube, dass meine Daten zu Forschungszwecken genutzt werden können</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Research settings</source>
+        <target>Forschungeinstellungen</target>
       </trans-unit>
     </body>
   </file>
