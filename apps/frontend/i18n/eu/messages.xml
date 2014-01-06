@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
-  <file source-language="EN" target-language="eu" datatype="plaintext" original="messages" date="2013-04-02T17:00:52Z" product-name="messages">
+  <file source-language="EN" target-language="eu" datatype="plaintext" original="messages" date="2013-05-07T23:41:19Z" product-name="messages">
     <header/>
     <body>
       <trans-unit id="1">
@@ -170,7 +170,7 @@
       </trans-unit>
       <trans-unit id="42">
         <source>Privacy settings</source>
-        <target>Pribatutasun Hobespenak</target>
+        <target>Pribatutasun hobespenak</target>
       </trans-unit>
       <trans-unit id="43">
         <source>Save changes</source>
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="44">
         <source>Edit profile</source>
-        <target>Profila Editatu</target>
+        <target>Profila editatu</target>
       </trans-unit>
       <trans-unit id="45">
         <source>Messages</source>
@@ -885,6 +885,42 @@
       <trans-unit id="217">
         <source>I accept the &lt;a href="/default/tos"&gt;Terms of Use&lt;/a&gt; of this site</source>
         <target>&lt;a href="/default/tos"&gt;Erabiltzeko Baldintzak&lt;/a&gt; onartzen ditut.</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>What is Social Lab privacy wargame?</source>
+        <target>Zer da Social Lab privacy wargame?</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. It is a &lt;a href="#socialeng"&gt;social engineering&lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt;.</source>
+        <target>&lt;strong&gt;Social Lab  privacy wargame&lt;/strong&gt; &lt;strong&gt;EZ&lt;/strong&gt; da benetazko sare soziala, baizik eta &lt;a href="#socialeng"&gt;ingeniaritza sozialen inguruko &lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt; bat. </target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt;-k egiazko sare sozial baten oinarrizko ezaugarriak erabiltzen ditu (adiskidetasun eskaerak, egoeraren eguneraketak, mezu pribatuak, argazkiak, orriak, etab.) probak egiteko kutxa seguru bat eskainiz (&amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot; deritzona), non sare sozialetan gertatzen diren erlazioak azter daitezkeen.</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>About Social Lab privacy wargame</source>
+        <target>Social Lab privacy wargame-ri buruz</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Images of fake profiles provided by &lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; are property of &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt; and released under a &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; license</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt;-n erabiltzen diren profil faltsuen irudiak &lt;a href="http://imagebase.davidniblack.com/"&gt;David Niblack&lt;/a&gt;-enak dira eta &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0&lt;/a&gt; lizentziapean banatzen dira.</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Welcome to Social Lab privacy wargame!</source>
+        <target>Ongi etorri Social Lab privacy wargame-ra!</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. If you want to know what it is</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; &lt;strong&gt;EZ&lt;/strong&gt; da benetazko sare sozial bat. Jakin nahi baduzu zehazki zer den</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Allow my data to be used for research purposes</source>
+        <target>Baimendu nire datuak ikerketetarako erabiltzea</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Research settings</source>
+        <target>Ikerketarako hobespenak</target>
       </trans-unit>
     </body>
   </file>

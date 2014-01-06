@@ -33,7 +33,8 @@ class sfGuardUserProfileForm extends BasesfGuardUserProfileForm
       'academic_info_is_public' => 'Academic information',
       'pictures_info_is_public' => 'Pictures',
       'pages_info_is_public' => 'Pages',
-      'friends_info_is_public' => 'Friends'
+      'friends_info_is_public' => 'Friends',
+      'tos_accept' => 'Allow my data to be used for research purposes'
     ));
   }
 }

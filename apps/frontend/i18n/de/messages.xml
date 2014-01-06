@@ -886,6 +886,7 @@
       </trans-unit>
       <trans-unit id="218">
         <source>What is Social Lab privacy wargame?</source>
+<<<<<<< HEAD
         <target>Was ist das Social Lab Sozialmedienspiel?</target>
       </trans-unit>
       <trans-unit id="219">
@@ -895,6 +896,17 @@
       <trans-unit id="220">
         <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
         <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ahmt die Funktionalitäten eines sozialen Netzwerks nach (Freundschaftsanfragen, Statusupdates, Privatnachrichten, Fotos, Seiten, etc.).</target>
+=======
+        <target>Was ist Social Lab privacy wargame?</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; is &lt;strong&gt;NOT&lt;/strong&gt; a real social network. It is a &lt;a href="#socialeng"&gt;social engineering&lt;/a&gt; &lt;a href="#wargame"&gt;wargame&lt;/a&gt;.</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ist &lt;strong&gt;KEIN&lt;/strong&gt; soziales Netzwerk. Wenn Du wissen willst was es ist</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; mimics the features of a basic social network (i.e., friendship requests, status updates, private messages, pictures, fan pages, etc.) to provide a &amp;quot;&lt;em&gt;social sandbox&lt;/em&gt;&amp;quot;.</source>
+        <target>&lt;strong&gt;Social Lab privacy wargame&lt;/strong&gt; ahmt die Funktionalitäten eines sozialen Netzwerks nach (Freundschaftsanfragen, Statusupdates, Privatnachrichten, Fotos, Seiten, etc.) para proporcionar un &amp;quot;&lt;em&gt;sandbox social&lt;/em&gt;&amp;quot;, un entorno seguro en el que experimentar sobre las relaciones sociales.</target>
+>>>>>>> 9e9c2f5b2b72fe40d8a8eb85af5f62ef874a1e2c
       </trans-unit>
       <trans-unit id="221">
         <source>About Social Lab privacy wargame</source>

@@ -21,6 +21,7 @@ propel:
     pictures_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
     pages_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
     friends_info_is_public: { type: integer, foreignTable: privacy, foreignReference: id, default: 1 }
+    tos_accept: { type: boolean, default: true }
     created_at: ~
     updated_at: ~
   gender:
